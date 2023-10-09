@@ -1,0 +1,82 @@
+<html>
+    <head>
+        <title>Formulário</title>
+        <h1>emxemplo de Formulário</h1>
+    </head>
+    <Body>
+        <form action="" method="">
+            <div>
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="user_name">
+            </div>
+            <div>
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="user_mail">
+            </div>
+            <div>
+                <label for="tel">Telefone:</label>
+                <input type="tel" id="tel" name="user_phone">
+            </div>
+            <div>
+                <label for="number">Qtd Filhos:</label>
+                <input type="number" id="number" name="user_kids">
+            </div>
+            <div>
+                <fieldset>
+                    <legend>Selecione seu Sexo:</legend>
+                  
+                    <div>
+                      <input type="radio" id="male" name="sx" value="male" checked/>
+                      <label for="male">Masculino</label>
+                    </div>
+                  
+                    <div>
+                      <input type="radio" id="female" name="sx" value="female" />
+                      <label for="female">Femenino</label>
+                    </div>
+    
+                  </fieldset>
+            </div><br>
+            <div>
+                <label for="time">Escolha o horario de Inicio da Aula:</label><br>
+                <input type="time" name="time" id="time" min="13:00" max="22:00" required>
+                <small>A hora de inicio da aula deve ser entre 13:00 até 22:00</small>
+            </div><br>
+
+            <div>
+                <fieldset>
+                    <div>
+                        <legend>Quais curso voce quer fazer:</legend>
+                        <input type="checkbox" id="curso1" name="curse1" checked>
+                        <label for="curse1">Curso 1</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="curso2" name="curso2">
+                        <label for="curso2">Curso 2</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="curso3" name="curse3" >
+                        <label for="curse3">Curso 3</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" id="curso4" name="curso4">
+                        <label for="curso4">Curso 4</label>
+                    </div>
+
+                </fieldset>
+            </div> <br>
+            <div>
+                <label for="file">Selecione seu CV (Em Doc ou PDF):</label> <br>
+                <input type="file" id="file" name="file" accept=".doc, .pdf">
+                
+            </div><br>
+            <div class="button">
+                <button type="submit">Envie sua MSG</button>
+            </div>
+        </form>
+        <div>
+            <a href="index.html"><img src="imagens/2105306.png" alt="voltar" width="50"></a>
+        </div>
+    </Body>
+
+</html>
