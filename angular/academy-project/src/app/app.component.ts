@@ -8,7 +8,7 @@ import { AppModule } from './app.module';
 
 @Component({
   selector: 'app-root',
-  standalone: false,
+  standalone: true,
   imports: [CommonModule, RouterOutlet, MeuComponenteComponent, HeroesComponent],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
