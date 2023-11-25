@@ -10,26 +10,26 @@ import { HeroService } from '../hero.service';
 })
 
 export class HeroesComponent implements OnInit {
- heroes: Hero[] = []
+  heroes: Hero[] = []
 
- //  a interrogação pode ou nçao recerb valor pode ser NULL ou ter algum valor
- selectedHero?: Hero 
+  //  a interrogação pode ou nçao recerb valor pode ser NULL ou ter algum valor
+  selectedHero?: Hero 
 
- //Para usar o servico que criei devo usar o constructor
- constructor(private heroService: HeroService) {}
+  //Para usar o servico que criei devo usar o constructor
+  constructor(private heroService: HeroService) {}
 
-ngOnInit(): void {
-  this.getHeroes()
-}
+  ngOnInit(): void {
+    this.getHeroes()
+  }
 
-onSelectHero(hero: Hero) {
-  // Atributo da classe, "this" permite usar esse atributo
-  this.selectedHero = hero;
-  console.log(hero)
-}
+  onSelectHero(hero: Hero) {
+    // Atributo da classe, "this" permite usar esse atributo
+    this.selectedHero = hero;
+    console.log(hero)
+  }
 
-getHeroes(): void {
-  this.heroes = this.heroService.getHeroes();
-}
+  getHeroes(): void {
+    this.heroes = this.heroService.getHeroes();
+  }
 
 }
