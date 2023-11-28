@@ -1,0 +1,1095 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/pantoja/Academy/angular/heroes/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+$(OBJS)	node_modules/nice-napi/build/nice_napi.target.mk	/^$(OBJS): GYP_CFLAGS := $(DEFS_$(BUILDTYPE)) $(INCS_$(BUILDTYPE))  $(CFLAGS_$(BUILDTYPE)) $(CFLAG/;"	t
+$(OBJS)	node_modules/nice-napi/build/nice_napi.target.mk	/^$(OBJS): GYP_CXXFLAGS := $(DEFS_$(BUILDTYPE)) $(INCS_$(BUILDTYPE))  $(CFLAGS_$(BUILDTYPE)) $(CFL/;"	t
+$(OBJS)	node_modules/nice-napi/build/nice_napi.target.mk	/^$(OBJS): TOOLSET := $(TOOLSET)$/;"	t
+$(OBJS)	node_modules/nice-napi/build/nice_napi.target.mk	/^$(OBJS): | $(builddir)\/nothing.a $(obj).target\/node_modules\/node-addon-api\/nothing.a$/;"	t
+$(OBJS)	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(OBJS): GYP_CFLAGS := $(DEFS_$(BUILDTYPE)) $(INCS_$(BUILDTYPE))  $(CFLAGS_$(BUILDTYPE)) $(CFLAG/;"	t
+$(OBJS)	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(OBJS): GYP_CXXFLAGS := $(DEFS_$(BUILDTYPE)) $(INCS_$(BUILDTYPE))  $(CFLAGS_$(BUILDTYPE)) $(CFL/;"	t
+$(OBJS)	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(OBJS): TOOLSET := $(TOOLSET)$/;"	t
+$(builddir)/nice_napi.node	node_modules/nice-napi/build/nice_napi.target.mk	/^$(builddir)\/nice_napi.node: $(obj).target\/nice_napi.node FORCE_DO_CMD$/;"	t
+$(builddir)/nice_napi.node	node_modules/nice-napi/build/nice_napi.target.mk	/^$(builddir)\/nice_napi.node: TOOLSET := $(TOOLSET)$/;"	t
+$(builddir)/nothing.a	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(builddir)\/nothing.a: $(obj).target\/node_modules\/node-addon-api\/nothing.a FORCE_DO_CMD$/;"	t
+$(builddir)/nothing.a	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(builddir)\/nothing.a: TOOLSET := $(TOOLSET)$/;"	t
+$(obj).$(TOOLSET)/$(TARGET)/%.o	node_modules/nice-napi/build/nice_napi.target.mk	/^$(obj).$(TOOLSET)\/$(TARGET)\/%.o: $(obj).$(TOOLSET)\/%.cc FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/$(TARGET)/%.o	node_modules/nice-napi/build/nice_napi.target.mk	/^$(obj).$(TOOLSET)\/$(TARGET)\/%.o: $(obj)\/%.cc FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/$(TARGET)/%.o	node_modules/nice-napi/build/nice_napi.target.mk	/^$(obj).$(TOOLSET)\/$(TARGET)\/%.o: $(srcdir)\/%.cc FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/$(TARGET)/%.o	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(obj).$(TOOLSET)\/$(TARGET)\/%.o: $(obj).$(TOOLSET)\/%.c FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/$(TARGET)/%.o	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(obj).$(TOOLSET)\/$(TARGET)\/%.o: $(obj)\/%.c FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/$(TARGET)/%.o	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(obj).$(TOOLSET)\/$(TARGET)\/%.o: $(srcdir)\/%.c FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj).$(TOOLSET)\/%.S FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj).$(TOOLSET)\/%.c FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj).$(TOOLSET)\/%.cc FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj).$(TOOLSET)\/%.cpp FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj).$(TOOLSET)\/%.cxx FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj).$(TOOLSET)\/%.s FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj)\/%.S FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj)\/%.c FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj)\/%.cc FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj)\/%.cpp FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj)\/%.cxx FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(obj)\/%.s FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(srcdir)\/%.S FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(srcdir)\/%.c FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(srcdir)\/%.cc FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(srcdir)\/%.cpp FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(srcdir)\/%.cxx FORCE_DO_CMD$/;"	t
+$(obj).$(TOOLSET)/%.o	node_modules/nice-napi/build/Makefile	/^$(obj).$(TOOLSET)\/%.o: $(srcdir)\/%.s FORCE_DO_CMD$/;"	t
+$(obj).target/nice_napi.node	node_modules/nice-napi/build/nice_napi.target.mk	/^$(obj).target\/nice_napi.node: $(OBJS) $(obj).target\/node_modules\/node-addon-api\/nothing.a FO/;"	t
+$(obj).target/nice_napi.node	node_modules/nice-napi/build/nice_napi.target.mk	/^$(obj).target\/nice_napi.node: GYP_LDFLAGS := $(LDFLAGS_$(BUILDTYPE))$/;"	t
+$(obj).target/nice_napi.node	node_modules/nice-napi/build/nice_napi.target.mk	/^$(obj).target\/nice_napi.node: LIBS := $(LIBS)$/;"	t
+$(obj).target/nice_napi.node	node_modules/nice-napi/build/nice_napi.target.mk	/^$(obj).target\/nice_napi.node: TOOLSET := $(TOOLSET)$/;"	t
+$(obj).target/node_modules/node-addon-api/nothing.a	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(obj).target\/node_modules\/node-addon-api\/nothing.a: $(OBJS) FORCE_DO_CMD$/;"	t
+$(obj).target/node_modules/node-addon-api/nothing.a	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(obj).target\/node_modules\/node-addon-api\/nothing.a: GYP_LDFLAGS := $(LDFLAGS_$(BUILDTYPE))$/;"	t
+$(obj).target/node_modules/node-addon-api/nothing.a	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(obj).target\/node_modules\/node-addon-api\/nothing.a: LIBS := $(LIBS)$/;"	t
+$(obj).target/node_modules/node-addon-api/nothing.a	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(obj).target\/node_modules\/node-addon-api\/nothing.a: TOOLSET := $(TOOLSET)$/;"	t
+%.d	node_modules/nice-napi/build/Makefile	/^%.d: ;$/;"	t
+AR.host	node_modules/nice-napi/build/Makefile	/^AR.host ?= ar$/;"	m
+AR.target	node_modules/nice-napi/build/Makefile	/^AR.target ?= $(AR)$/;"	m
+Abort	node_modules/node-addon-api/napi-inl.h	/^TypedThreadSafeFunction<ContextType, DataType, CallJs>::Abort() {$/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:napi_status
+Abort	node_modules/node-addon-api/napi-inl.h	/^inline napi_status ThreadSafeFunction::Abort() {$/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:napi_status
+Accessor	node_modules/node-addon-api/napi-inl.deprecated.h	/^PropertyDescriptor::Accessor(const char* utf8name,$/;"	f	class:PropertyDescriptor	typeref:typename:PropertyDescriptor
+Accessor	node_modules/node-addon-api/napi-inl.deprecated.h	/^inline PropertyDescriptor PropertyDescriptor::Accessor(Name name,$/;"	f	class:PropertyDescriptor	typeref:typename:PropertyDescriptor
+Accessor	node_modules/node-addon-api/napi-inl.deprecated.h	/^inline PropertyDescriptor PropertyDescriptor::Accessor(const char* utf8name,$/;"	f	class:PropertyDescriptor	typeref:typename:PropertyDescriptor
+Accessor	node_modules/node-addon-api/napi-inl.deprecated.h	/^inline PropertyDescriptor PropertyDescriptor::Accessor(const std::string& utf8name,$/;"	f	class:PropertyDescriptor	typeref:typename:PropertyDescriptor
+Accessor	node_modules/node-addon-api/napi-inl.deprecated.h	/^inline PropertyDescriptor PropertyDescriptor::Accessor(napi_value name,$/;"	f	class:PropertyDescriptor	typeref:typename:PropertyDescriptor
+Accessor	node_modules/node-addon-api/napi-inl.h	/^PropertyDescriptor::Accessor(Name name,$/;"	f	class:Napi::PropertyDescriptor	typeref:typename:PropertyDescriptor
+Accessor	node_modules/node-addon-api/napi-inl.h	/^PropertyDescriptor::Accessor(Napi::Env env,$/;"	f	class:Napi::PropertyDescriptor	typeref:typename:PropertyDescriptor
+Accessor	node_modules/node-addon-api/napi-inl.h	/^PropertyDescriptor::Accessor(const char* utf8name,$/;"	f	class:Napi::PropertyDescriptor	typeref:typename:PropertyDescriptor
+Accessor	node_modules/node-addon-api/napi-inl.h	/^PropertyDescriptor::Accessor(const std::string& utf8name,$/;"	f	class:Napi::PropertyDescriptor	typeref:typename:PropertyDescriptor
+Accessor	node_modules/node-addon-api/napi-inl.h	/^inline PropertyDescriptor PropertyDescriptor::Accessor(Napi::Env env,$/;"	f	class:Napi::PropertyDescriptor	typeref:typename:PropertyDescriptor
+AccessorCallbackData	node_modules/node-addon-api/napi-inl.h	/^struct AccessorCallbackData {$/;"	s	namespace:Napi::details
+AccessorCallbackData	node_modules/node-addon-api/napi.h	/^  struct AccessorCallbackData {$/;"	s	namespace:Napi
+Acquire	node_modules/node-addon-api/napi-inl.h	/^TypedThreadSafeFunction<ContextType, DataType, CallJs>::Acquire() const {$/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:napi_status
+Acquire	node_modules/node-addon-api/napi-inl.h	/^inline napi_status ThreadSafeFunction::Acquire() const {$/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:napi_status
+AddFinalizer	node_modules/node-addon-api/napi-inl.h	/^inline void Object::AddFinalizer(Finalizer finalizeCallback, T* data) {$/;"	f	class:Napi::Object	typeref:typename:void
+AddFinalizer	node_modules/node-addon-api/napi-inl.h	/^inline void Object::AddFinalizer(Finalizer finalizeCallback,$/;"	f	class:Napi::Object	typeref:typename:void
+Addon	node_modules/node-addon-api/napi.h	/^  class Addon : public InstanceWrap<T> {$/;"	c	namespace:Napi
+AddonProp	node_modules/node-addon-api/napi.h	/^    using AddonProp = ClassPropertyDescriptor<T>;$/;"	t	class:Napi::Addon	typeref:typename:ClassPropertyDescriptor<T>
+AdjustExternalMemory	node_modules/node-addon-api/napi-inl.h	/^inline int64_t MemoryManagement::AdjustExternalMemory(Env env, int64_t change_in_bytes) {$/;"	f	class:Napi::MemoryManagement	typeref:typename:int64_t
+Array	node_modules/node-addon-api/napi-inl.h	/^inline Array::Array() : Object() {$/;"	f	class:Napi::Array
+Array	node_modules/node-addon-api/napi-inl.h	/^inline Array::Array(napi_env env, napi_value value) : Object(env, value) {$/;"	f	class:Napi::Array
+Array	node_modules/node-addon-api/napi.h	/^  class Array : public Object {$/;"	c	namespace:Napi
+ArrayBuffer	node_modules/node-addon-api/napi-inl.h	/^inline ArrayBuffer::ArrayBuffer() : Object() {$/;"	f	class:Napi::ArrayBuffer
+ArrayBuffer	node_modules/node-addon-api/napi-inl.h	/^inline ArrayBuffer::ArrayBuffer(napi_env env, napi_value value)$/;"	f	class:Napi::ArrayBuffer
+ArrayBuffer	node_modules/node-addon-api/napi-inl.h	/^inline Napi::ArrayBuffer DataView::ArrayBuffer() const {$/;"	f	class:Napi::DataView	typeref:typename:Napi::ArrayBuffer
+ArrayBuffer	node_modules/node-addon-api/napi-inl.h	/^inline Napi::ArrayBuffer TypedArray::ArrayBuffer() const {$/;"	f	class:Napi::TypedArray	typeref:typename:Napi::ArrayBuffer
+ArrayBuffer	node_modules/node-addon-api/napi.h	/^  class ArrayBuffer : public Object {$/;"	c	namespace:Napi
+As	node_modules/node-addon-api/napi-inl.h	/^inline T Value::As() const {$/;"	f	class:Napi::Value	typeref:typename:T
+AsyncContext	node_modules/node-addon-api/napi-inl.h	/^inline AsyncContext::AsyncContext(AsyncContext&& other) {$/;"	f	class:Napi::AsyncContext
+AsyncContext	node_modules/node-addon-api/napi-inl.h	/^inline AsyncContext::AsyncContext(napi_env env, const char* resource_name)$/;"	f	class:Napi::AsyncContext
+AsyncContext	node_modules/node-addon-api/napi-inl.h	/^inline AsyncContext::AsyncContext(napi_env env,$/;"	f	class:Napi::AsyncContext
+AsyncContext	node_modules/node-addon-api/napi.h	/^  class AsyncContext {$/;"	c	namespace:Napi
+AsyncProgressQueueWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressQueueWorker<T>::AsyncProgressQueueWorker(Napi::Env env)$/;"	f	class:Napi::AsyncProgressQueueWorker
+AsyncProgressQueueWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressQueueWorker<T>::AsyncProgressQueueWorker(Napi::Env env,$/;"	f	class:Napi::AsyncProgressQueueWorker
+AsyncProgressQueueWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressQueueWorker<T>::AsyncProgressQueueWorker(const Function& callback)$/;"	f	class:Napi::AsyncProgressQueueWorker
+AsyncProgressQueueWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressQueueWorker<T>::AsyncProgressQueueWorker(const Function& callback,$/;"	f	class:Napi::AsyncProgressQueueWorker
+AsyncProgressQueueWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressQueueWorker<T>::AsyncProgressQueueWorker(const Object& receiver,$/;"	f	class:Napi::AsyncProgressQueueWorker
+AsyncProgressQueueWorker	node_modules/node-addon-api/napi.h	/^  class AsyncProgressQueueWorker : public AsyncProgressWorkerBase<std::pair<T*, size_t>> {$/;"	c	namespace:Napi
+AsyncProgressWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressWorker<T>::AsyncProgressWorker(Napi::Env env)$/;"	f	class:Napi::AsyncProgressWorker
+AsyncProgressWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressWorker<T>::AsyncProgressWorker(Napi::Env env,$/;"	f	class:Napi::AsyncProgressWorker
+AsyncProgressWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressWorker<T>::AsyncProgressWorker(const Function& callback)$/;"	f	class:Napi::AsyncProgressWorker
+AsyncProgressWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressWorker<T>::AsyncProgressWorker(const Function& callback,$/;"	f	class:Napi::AsyncProgressWorker
+AsyncProgressWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressWorker<T>::AsyncProgressWorker(const Object& receiver,$/;"	f	class:Napi::AsyncProgressWorker
+AsyncProgressWorker	node_modules/node-addon-api/napi.h	/^  class AsyncProgressWorker : public AsyncProgressWorkerBase<void> {$/;"	c	namespace:Napi
+AsyncProgressWorkerBase	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressWorkerBase<DataType>::AsyncProgressWorkerBase(Napi::Env env,$/;"	f	class:Napi::AsyncProgressWorkerBase
+AsyncProgressWorkerBase	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressWorkerBase<DataType>::AsyncProgressWorkerBase(const Object& receiver,$/;"	f	class:Napi::AsyncProgressWorkerBase
+AsyncProgressWorkerBase	node_modules/node-addon-api/napi.h	/^  class AsyncProgressWorkerBase : public AsyncWorker {$/;"	c	namespace:Napi
+AsyncWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncWorker::AsyncWorker(AsyncWorker&& other) {$/;"	f	class:Napi::AsyncWorker
+AsyncWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncWorker::AsyncWorker(Napi::Env env)$/;"	f	class:Napi::AsyncWorker
+AsyncWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncWorker::AsyncWorker(Napi::Env env,$/;"	f	class:Napi::AsyncWorker
+AsyncWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncWorker::AsyncWorker(const Function& callback)$/;"	f	class:Napi::AsyncWorker
+AsyncWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncWorker::AsyncWorker(const Function& callback,$/;"	f	class:Napi::AsyncWorker
+AsyncWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncWorker::AsyncWorker(const Object& receiver,$/;"	f	class:Napi::AsyncWorker
+AsyncWorker	node_modules/node-addon-api/napi.h	/^  class AsyncWorker {$/;"	c	namespace:Napi
+AttachData	node_modules/node-addon-api/napi-inl.h	/^static inline napi_status AttachData(napi_env env,$/;"	f	namespace:Napi::details	typeref:typename:napi_status
+AttachPropData	node_modules/node-addon-api/napi-inl.h	/^inline void InstanceWrap<T>::AttachPropData(napi_env env,$/;"	f	class:Napi::InstanceWrap	typeref:typename:void
+BIN	node_modules/body-parser/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/compression/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/connect/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/custom-event/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/dom-serialize/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/express/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/finalhandler/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/send/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BIN	node_modules/serve-index/node_modules/debug/Makefile	/^BIN := $(THIS_DIR)\/node_modules\/.bin$/;"	m
+BROWSERIFY	node_modules/body-parser/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/compression/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/connect/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/express/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/finalhandler/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/send/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BROWSERIFY	node_modules/serve-index/node_modules/debug/Makefile	/^BROWSERIFY ?= $(NODE) $(BIN)\/browserify$/;"	m
+BUILDTYPE	node_modules/nice-napi/build/Makefile	/^BUILDTYPE ?= Release$/;"	m
+BigInt	node_modules/node-addon-api/napi-inl.h	/^inline BigInt::BigInt() : Value() {$/;"	f	class:Napi::BigInt
+BigInt	node_modules/node-addon-api/napi-inl.h	/^inline BigInt::BigInt(napi_env env, napi_value value) : Value(env, value) {$/;"	f	class:Napi::BigInt
+BigInt	node_modules/node-addon-api/napi.h	/^  class BigInt : public Value {$/;"	c	namespace:Napi
+BigInt64Array	node_modules/node-addon-api/napi.h	/^  using BigInt64Array =$/;"	t	namespace:Napi	typeref:typename:TypedArrayOf<int64_t>
+BigUint64Array	node_modules/node-addon-api/napi.h	/^  using BigUint64Array =$/;"	t	namespace:Napi	typeref:typename:TypedArrayOf<uint64_t>
+BlockingCall	node_modules/node-addon-api/napi-inl.h	/^TypedThreadSafeFunction<ContextType, DataType, CallJs>::BlockingCall($/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:napi_status
+BlockingCall	node_modules/node-addon-api/napi-inl.h	/^inline napi_status ThreadSafeFunction::BlockingCall($/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:napi_status
+BlockingCall	node_modules/node-addon-api/napi-inl.h	/^inline napi_status ThreadSafeFunction::BlockingCall() const {$/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:napi_status
+Boolean	node_modules/node-addon-api/napi-inl.h	/^inline Boolean::Boolean() : Napi::Value() {$/;"	f	class:Napi::Boolean
+Boolean	node_modules/node-addon-api/napi-inl.h	/^inline Boolean::Boolean(napi_env env, napi_value value) : Napi::Value(env, value) {$/;"	f	class:Napi::Boolean
+Boolean	node_modules/node-addon-api/napi.h	/^  class Boolean : public Value {$/;"	c	namespace:Napi
+Buffer	node_modules/node-addon-api/napi-inl.h	/^inline Buffer<T>::Buffer() : Uint8Array(), _length(0), _data(nullptr) {$/;"	f	class:Napi::Buffer
+Buffer	node_modules/node-addon-api/napi-inl.h	/^inline Buffer<T>::Buffer(napi_env env, napi_value value)$/;"	f	class:Napi::Buffer
+Buffer	node_modules/node-addon-api/napi-inl.h	/^inline Buffer<T>::Buffer(napi_env env, napi_value value, size_t length, T* data)$/;"	f	class:Napi::Buffer
+Buffer	node_modules/node-addon-api/napi.h	/^  class Buffer : public Uint8Array {$/;"	c	namespace:Napi
+ByteLength	node_modules/node-addon-api/napi-inl.h	/^inline size_t ArrayBuffer::ByteLength() {$/;"	f	class:Napi::ArrayBuffer	typeref:typename:size_t
+ByteLength	node_modules/node-addon-api/napi-inl.h	/^inline size_t DataView::ByteLength() const {$/;"	f	class:Napi::DataView	typeref:typename:size_t
+ByteLength	node_modules/node-addon-api/napi-inl.h	/^inline size_t TypedArray::ByteLength() const {$/;"	f	class:Napi::TypedArray	typeref:typename:size_t
+ByteOffset	node_modules/node-addon-api/napi-inl.h	/^inline size_t DataView::ByteOffset() const {$/;"	f	class:Napi::DataView	typeref:typename:size_t
+ByteOffset	node_modules/node-addon-api/napi-inl.h	/^inline size_t TypedArray::ByteOffset() const {$/;"	f	class:Napi::TypedArray	typeref:typename:size_t
+CC.host	node_modules/nice-napi/build/Makefile	/^CC.host ?= ccache gcc-7$/;"	m
+CC.target	node_modules/nice-napi/build/Makefile	/^CC.target ?= ccache gcc-7$/;"	m
+CFLAGS.host	node_modules/nice-napi/build/Makefile	/^CFLAGS.host ?= $(CPPFLAGS_host) $(CFLAGS_host)$/;"	m
+CFLAGS.target	node_modules/nice-napi/build/Makefile	/^CFLAGS.target ?= $(CPPFLAGS) $(CFLAGS)$/;"	m
+CFLAGS_CC_Debug	node_modules/nice-napi/build/nice_napi.target.mk	/^CFLAGS_CC_Debug := \\$/;"	m
+CFLAGS_CC_Debug	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^CFLAGS_CC_Debug := \\$/;"	m
+CFLAGS_CC_Release	node_modules/nice-napi/build/nice_napi.target.mk	/^CFLAGS_CC_Release := \\$/;"	m
+CFLAGS_CC_Release	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^CFLAGS_CC_Release := \\$/;"	m
+CFLAGS_C_Debug	node_modules/nice-napi/build/nice_napi.target.mk	/^CFLAGS_C_Debug :=$/;"	m
+CFLAGS_C_Debug	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^CFLAGS_C_Debug :=$/;"	m
+CFLAGS_C_Release	node_modules/nice-napi/build/nice_napi.target.mk	/^CFLAGS_C_Release :=$/;"	m
+CFLAGS_C_Release	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^CFLAGS_C_Release :=$/;"	m
+CFLAGS_Debug	node_modules/nice-napi/build/nice_napi.target.mk	/^CFLAGS_Debug := \\$/;"	m
+CFLAGS_Debug	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^CFLAGS_Debug := \\$/;"	m
+CFLAGS_Release	node_modules/nice-napi/build/nice_napi.target.mk	/^CFLAGS_Release := \\$/;"	m
+CFLAGS_Release	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^CFLAGS_Release := \\$/;"	m
+CXX.host	node_modules/nice-napi/build/Makefile	/^CXX.host ?= ccache g++-7$/;"	m
+CXX.target	node_modules/nice-napi/build/Makefile	/^CXX.target ?= ccache g++-7$/;"	m
+Call	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Value FunctionReference::Call($/;"	f	class:Napi::FunctionReference	typeref:typename:Napi::Value
+Call	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Value FunctionReference::Call(const std::initializer_list<napi_value>& args) const /;"	f	class:Napi::FunctionReference	typeref:typename:Napi::Value
+Call	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Value FunctionReference::Call(const std::vector<napi_value>& args) const {$/;"	f	class:Napi::FunctionReference	typeref:typename:Napi::Value
+Call	node_modules/node-addon-api/napi-inl.h	/^inline Value Function::Call(const std::initializer_list<napi_value>& args) const {$/;"	f	class:Napi::Function	typeref:typename:Value
+Call	node_modules/node-addon-api/napi-inl.h	/^inline Value Function::Call(const std::vector<napi_value>& args) const {$/;"	f	class:Napi::Function	typeref:typename:Value
+Call	node_modules/node-addon-api/napi-inl.h	/^inline Value Function::Call(napi_value recv, const std::initializer_list<napi_value>& args) cons/;"	f	class:Napi::Function	typeref:typename:Value
+Call	node_modules/node-addon-api/napi-inl.h	/^inline Value Function::Call(napi_value recv, const std::vector<napi_value>& args) const {$/;"	f	class:Napi::Function	typeref:typename:Value
+Call	node_modules/node-addon-api/napi-inl.h	/^inline Value Function::Call(napi_value recv, size_t argc, const napi_value* args) const {$/;"	f	class:Napi::Function	typeref:typename:Value
+Call	node_modules/node-addon-api/napi-inl.h	/^inline Value Function::Call(size_t argc, const napi_value* args) const {$/;"	f	class:Napi::Function	typeref:typename:Value
+CallInternal	node_modules/node-addon-api/napi-inl.h	/^inline napi_status ThreadSafeFunction::CallInternal($/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:napi_status
+CallJS	node_modules/node-addon-api/napi-inl.h	/^inline void ThreadSafeFunction::CallJS(napi_env env,$/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:void
+CallJsInternal	node_modules/node-addon-api/napi-inl.h	/^void TypedThreadSafeFunction<ContextType, DataType, CallJs>::CallJsInternal($/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:void
+CallJsWrapper	node_modules/node-addon-api/napi-inl.h	/^typename std::enable_if<call != nullptr>::type static inline CallJsWrapper($/;"	f	namespace:Napi::details	typeref:typename:std::enable_if<call!=nullptr>::type
+CallJsWrapper	node_modules/node-addon-api/napi-inl.h	/^typename std::enable_if<call == nullptr>::type static inline CallJsWrapper($/;"	f	namespace:Napi::details	typeref:typename:std::enable_if<call==nullptr>::type
+Callback	node_modules/node-addon-api/napi-inl.h	/^inline FunctionReference& AsyncWorker::Callback() {$/;"	f	class:Napi::AsyncWorker	typeref:typename:FunctionReference &
+Callback	node_modules/node-addon-api/napi.h	/^   using Callback = Value (*)(const CallbackInfo& info);$/;"	t	class:Napi::Function
+CallbackData	node_modules/node-addon-api/napi-inl.h	/^struct CallbackData {$/;"	s	namespace:Napi::details
+CallbackData	node_modules/node-addon-api/napi-inl.h	/^struct CallbackData<Callable, void> {$/;"	s	namespace:Napi::details
+CallbackInfo	node_modules/node-addon-api/napi-inl.h	/^inline CallbackInfo::CallbackInfo(napi_env env, napi_callback_info info)$/;"	f	class:Napi::CallbackInfo
+CallbackInfo	node_modules/node-addon-api/napi.h	/^  class CallbackInfo {$/;"	c	namespace:Napi
+CallbackScope	node_modules/node-addon-api/napi-inl.h	/^inline CallbackScope::CallbackScope($/;"	f	class:Napi::CallbackScope
+CallbackScope	node_modules/node-addon-api/napi-inl.h	/^inline CallbackScope::CallbackScope(napi_env env, napi_async_context context)$/;"	f	class:Napi::CallbackScope
+CallbackScope	node_modules/node-addon-api/napi.h	/^  class CallbackScope {$/;"	c	namespace:Napi
+CallbackWrapper	node_modules/node-addon-api/napi.h	/^    using CallbackWrapper = std::function<void(Napi::Env, Napi::Function)>;$/;"	t	class:Napi::ThreadSafeFunction
+Cancel	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncWorker::Cancel() {$/;"	f	class:Napi::AsyncWorker	typeref:typename:void
+CbData	node_modules/node-addon-api/napi-inl.deprecated.h	/^  using CbData = details::AccessorCallbackData<Getter, Setter>;$/;"	t	function:PropertyDescriptor::Accessor	typeref:typename:details::AccessorCallbackData<Getter,Setter>
+CbData	node_modules/node-addon-api/napi-inl.deprecated.h	/^  using CbData = details::CallbackData<Callable, ReturnType>;$/;"	t	function:PropertyDescriptor::Function	typeref:typename:details::CallbackData<Callable,ReturnType>
+CbData	node_modules/node-addon-api/napi-inl.deprecated.h	/^  using CbData = details::CallbackData<Getter, Napi::Value>;$/;"	t	function:PropertyDescriptor::Accessor	typeref:typename:details::CallbackData<Getter,Napi::Value>
+CbData	node_modules/node-addon-api/napi-inl.h	/^  using CbData = details::AccessorCallbackData<Getter, Setter>;$/;"	t	function:Napi::PropertyDescriptor::Accessor	typeref:typename:details::AccessorCallbackData<Getter,Setter>
+CbData	node_modules/node-addon-api/napi-inl.h	/^  using CbData = details::CallbackData<Callable, ReturnType>;$/;"	t	function:Napi::Function::New	typeref:typename:details::CallbackData<Callable,ReturnType>
+CbData	node_modules/node-addon-api/napi-inl.h	/^  using CbData = details::CallbackData<Getter, Napi::Value>;$/;"	t	function:Napi::PropertyDescriptor::Accessor	typeref:typename:details::CallbackData<Getter,Napi::Value>
+ClassPropertyDescriptor	node_modules/node-addon-api/napi.h	/^    ClassPropertyDescriptor(napi_property_descriptor desc) : _desc(desc) {}$/;"	f	class:Napi::ClassPropertyDescriptor
+ClassPropertyDescriptor	node_modules/node-addon-api/napi.h	/^  class ClassPropertyDescriptor {$/;"	c	namespace:Napi
+ConstructorCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^inline napi_value ObjectWrap<T>::ConstructorCallbackWrapper($/;"	f	class:Napi::ObjectWrap	typeref:typename:napi_value
+ConvertibleContext	node_modules/node-addon-api/napi.h	/^    struct ConvertibleContext$/;"	s	class:Napi::ThreadSafeFunction
+Copy	node_modules/node-addon-api/napi-inl.h	/^inline Buffer<T> Buffer<T>::Copy(napi_env env, const T* data, size_t length) {$/;"	f	class:Napi::Buffer	typeref:typename:Buffer<T>
+CreateFunction	node_modules/node-addon-api/napi-inl.h	/^CreateFunction(napi_env env,$/;"	f	namespace:Napi	typeref:typename:napi_status
+DEFS_Debug	node_modules/nice-napi/build/nice_napi.target.mk	/^DEFS_Debug := \\$/;"	m
+DEFS_Debug	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^DEFS_Debug := \\$/;"	m
+DEFS_Release	node_modules/nice-napi/build/nice_napi.target.mk	/^DEFS_Release := \\$/;"	m
+DEFS_Release	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^DEFS_Release := \\$/;"	m
+DEPFLAGS	node_modules/nice-napi/build/Makefile	/^DEPFLAGS = -MMD -MF $(depfile).raw$/;"	m
+Data	node_modules/node-addon-api/napi-inl.h	/^inline T* Buffer<T>::Data() const {$/;"	f	class:Napi::Buffer	typeref:typename:T *
+Data	node_modules/node-addon-api/napi-inl.h	/^inline T* External<T>::Data() const {$/;"	f	class:Napi::External	typeref:typename:T *
+Data	node_modules/node-addon-api/napi-inl.h	/^inline T* TypedArrayOf<T>::Data() {$/;"	f	class:Napi::TypedArrayOf	typeref:typename:T *
+Data	node_modules/node-addon-api/napi-inl.h	/^inline const T* TypedArrayOf<T>::Data() const {$/;"	f	class:Napi::TypedArrayOf	typeref:typename:const T *
+Data	node_modules/node-addon-api/napi-inl.h	/^inline void* ArrayBuffer::Data() {$/;"	f	class:Napi::ArrayBuffer	typeref:typename:void *
+Data	node_modules/node-addon-api/napi-inl.h	/^inline void* CallbackInfo::Data() const {$/;"	f	class:Napi::CallbackInfo	typeref:typename:void *
+Data	node_modules/node-addon-api/napi-inl.h	/^inline void* DataView::Data() const {$/;"	f	class:Napi::DataView	typeref:typename:void *
+DataView	node_modules/node-addon-api/napi-inl.h	/^inline DataView::DataView() : Object() {$/;"	f	class:Napi::DataView
+DataView	node_modules/node-addon-api/napi-inl.h	/^inline DataView::DataView(napi_env env, napi_value value) : Object(env, value) {$/;"	f	class:Napi::DataView
+DataView	node_modules/node-addon-api/napi.h	/^  class DataView : public Object {$/;"	c	namespace:Napi
+Date	node_modules/node-addon-api/napi-inl.h	/^inline Date::Date() : Value() {$/;"	f	class:Napi::Date
+Date	node_modules/node-addon-api/napi-inl.h	/^inline Date::Date(napi_env env, napi_value value) : Value(env, value) {$/;"	f	class:Napi::Date
+Date	node_modules/node-addon-api/napi.h	/^  class Date : public Value {$/;"	c	namespace:Napi
+DefaultCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^napi_value DefaultCallbackWrapper(napi_env \/*env*\/, Napi::Function cb) {$/;"	f	namespace:Napi::details	typeref:typename:napi_value
+DefaultCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^napi_value DefaultCallbackWrapper(napi_env \/*env*\/, std::nullptr_t \/*cb*\/) {$/;"	f	namespace:Napi::details	typeref:typename:napi_value
+DefaultCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^napi_value DefaultCallbackWrapper(napi_env env, Napi::Function cb) {$/;"	f	namespace:Napi::details	typeref:typename:napi_value
+DefaultFini	node_modules/node-addon-api/napi-inl.h	/^template <typename T> void Env::DefaultFini(Env, T* data) {$/;"	f	class:Napi::Env	typeref:typename:void
+DefaultFiniWithHint	node_modules/node-addon-api/napi-inl.h	/^void Env::DefaultFiniWithHint(Env, DataType* data, HintType*) {$/;"	f	class:Napi::Env	typeref:typename:void
+Deferred	node_modules/node-addon-api/napi-inl.h	/^inline Promise::Deferred::Deferred(napi_env env) : _env(env) {$/;"	f	class:Napi::Promise::Deferred
+Deferred	node_modules/node-addon-api/napi.h	/^    class Deferred {$/;"	c	class:Napi::Promise
+DefineAddon	node_modules/node-addon-api/napi-inl.h	/^Addon<T>::DefineAddon(Object exports,$/;"	f	class:Napi::Addon	typeref:typename:void
+DefineClass	node_modules/node-addon-api/napi-inl.h	/^ObjectWrap<T>::DefineClass(Napi::Env env,$/;"	f	class:Napi::ObjectWrap	typeref:typename:Function
+DefineClass	node_modules/node-addon-api/napi-inl.h	/^inline Function ObjectWrap<T>::DefineClass($/;"	f	class:Napi::ObjectWrap	typeref:typename:Function
+DefineProperties	node_modules/node-addon-api/napi-inl.h	/^Addon<T>::DefineProperties(Object object,$/;"	f	class:Napi::Addon	typeref:typename:Napi::Object
+DefineProperties	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::DefineProperties($/;"	f	class:Napi::Object	typeref:typename:bool
+DefineProperty	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::DefineProperty(const PropertyDescriptor& property) {$/;"	f	class:Napi::Object	typeref:typename:bool
+Delete	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Delete(Value key) {$/;"	f	class:Napi::Object	typeref:typename:bool
+Delete	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Delete(const char* utf8name) {$/;"	f	class:Napi::Object	typeref:typename:bool
+Delete	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Delete(const std::string& utf8name) {$/;"	f	class:Napi::Object	typeref:typename:bool
+Delete	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Delete(napi_value key) {$/;"	f	class:Napi::Object	typeref:typename:bool
+Delete	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Delete(uint32_t index) {$/;"	f	class:Napi::Object	typeref:typename:bool
+Destroy	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncWorker::Destroy() {$/;"	f	class:Napi::AsyncWorker	typeref:typename:void
+Detach	node_modules/node-addon-api/napi-inl.h	/^inline void ArrayBuffer::Detach() {$/;"	f	class:Napi::ArrayBuffer	typeref:typename:void
+DoubleValue	node_modules/node-addon-api/napi-inl.h	/^inline double Number::DoubleValue() const {$/;"	f	class:Napi::Number	typeref:typename:double
+Dummy	node_modules/node-addon-api/napi-inl.h	/^  struct Dummy {};$/;"	s	function:Napi::String::From
+ElementLength	node_modules/node-addon-api/napi-inl.h	/^inline size_t TypedArray::ElementLength() const {$/;"	f	class:Napi::TypedArray	typeref:typename:size_t
+ElementSize	node_modules/node-addon-api/napi-inl.h	/^inline uint8_t TypedArray::ElementSize() const {$/;"	f	class:Napi::TypedArray	typeref:typename:uint8_t
+EmptyFunctionFactory	node_modules/node-addon-api/napi-inl.h	/^TypedThreadSafeFunction<ContextType, DataType, CallJs>::EmptyFunctionFactory($/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:Napi::Function
+EmptyFunctionFactory	node_modules/node-addon-api/napi-inl.h	/^TypedThreadSafeFunction<ContextType, DataType, CallJs>::EmptyFunctionFactory($/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:std::nullptr_t
+EnsureInfo	node_modules/node-addon-api/napi-inl.h	/^inline void Buffer<T>::EnsureInfo() const {$/;"	f	class:Napi::Buffer	typeref:typename:void
+Env	node_modules/node-addon-api/napi-inl.h	/^inline Env::Env(napi_env env) : _env(env) {$/;"	f	class:Napi::Env
+Env	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Env AsyncContext::Env() const {$/;"	f	class:Napi::AsyncContext	typeref:typename:Napi::Env
+Env	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Env AsyncWorker::Env() const {$/;"	f	class:Napi::AsyncWorker	typeref:typename:Napi::Env
+Env	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Env CallbackInfo::Env() const {$/;"	f	class:Napi::CallbackInfo	typeref:typename:Napi::Env
+Env	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Env CallbackScope::Env() const {$/;"	f	class:Napi::CallbackScope	typeref:typename:Napi::Env
+Env	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Env EscapableHandleScope::Env() const {$/;"	f	class:Napi::EscapableHandleScope	typeref:typename:Napi::Env
+Env	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Env HandleScope::Env() const {$/;"	f	class:Napi::HandleScope	typeref:typename:Napi::Env
+Env	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Env Promise::Deferred::Env() const {$/;"	f	class:Napi::Promise::Deferred	typeref:typename:Napi::Env
+Env	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Env Reference<T>::Env() const {$/;"	f	class:Napi::Reference	typeref:typename:Napi::Env
+Env	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Env Value::Env() const {$/;"	f	class:Napi::Value	typeref:typename:Napi::Env
+Env	node_modules/node-addon-api/napi.h	/^  class Env {$/;"	c	namespace:Napi
+Error	node_modules/node-addon-api/napi-inl.h	/^inline Error::Error() : ObjectReference() {$/;"	f	class:Napi::Error
+Error	node_modules/node-addon-api/napi-inl.h	/^inline Error::Error(Error&& other) : ObjectReference(std::move(other)) {$/;"	f	class:Napi::Error
+Error	node_modules/node-addon-api/napi-inl.h	/^inline Error::Error(const Error& other) : ObjectReference(other) {$/;"	f	class:Napi::Error
+Error	node_modules/node-addon-api/napi-inl.h	/^inline Error::Error(napi_env env, napi_value value) : ObjectReference(env, nullptr) {$/;"	f	class:Napi::Error
+Error	node_modules/node-addon-api/napi.h	/^  class Error : public ObjectReference$/;"	c	namespace:Napi
+EscapableHandleScope	node_modules/node-addon-api/napi-inl.h	/^inline EscapableHandleScope::EscapableHandleScope($/;"	f	class:Napi::EscapableHandleScope
+EscapableHandleScope	node_modules/node-addon-api/napi-inl.h	/^inline EscapableHandleScope::EscapableHandleScope(Napi::Env env) : _env(env) {$/;"	f	class:Napi::EscapableHandleScope
+EscapableHandleScope	node_modules/node-addon-api/napi.h	/^  class EscapableHandleScope {$/;"	c	namespace:Napi
+Escape	node_modules/node-addon-api/napi-inl.h	/^inline Value EscapableHandleScope::Escape(napi_value escapee) {$/;"	f	class:Napi::EscapableHandleScope	typeref:typename:Value
+Execute	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressQueueWorker<T>::Execute() {$/;"	f	class:Napi::AsyncProgressQueueWorker	typeref:typename:void
+Execute	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressWorker<T>::Execute() {$/;"	f	class:Napi::AsyncProgressWorker	typeref:typename:void
+ExecutionProgress	node_modules/node-addon-api/napi.h	/^        explicit ExecutionProgress(AsyncProgressQueueWorker* worker) : _worker(worker) {}$/;"	f	class:Napi::AsyncProgressQueueWorker::ExecutionProgress
+ExecutionProgress	node_modules/node-addon-api/napi.h	/^        explicit ExecutionProgress(AsyncProgressWorker* worker) : _worker(worker) {}$/;"	f	class:Napi::AsyncProgressWorker::ExecutionProgress
+ExecutionProgress	node_modules/node-addon-api/napi.h	/^     class ExecutionProgress {$/;"	c	class:Napi::AsyncProgressQueueWorker
+ExecutionProgress	node_modules/node-addon-api/napi.h	/^     class ExecutionProgress {$/;"	c	class:Napi::AsyncProgressWorker
+External	node_modules/node-addon-api/napi-inl.h	/^inline External<T>::External() : Value() {$/;"	f	class:Napi::External
+External	node_modules/node-addon-api/napi-inl.h	/^inline External<T>::External(napi_env env, napi_value value) : Value(env, value) {$/;"	f	class:Napi::External
+External	node_modules/node-addon-api/napi.h	/^  class External : public Value {$/;"	c	namespace:Napi
+FORCE_DO_CMD	node_modules/nice-napi/build/Makefile	/^FORCE_DO_CMD:$/;"	t
+Fatal	node_modules/node-addon-api/napi-inl.h	/^inline NAPI_NO_RETURN void Error::Fatal(const char* location, const char* message) {$/;"	f	class:Napi::Error	typeref:typename:NAPI_NO_RETURN void
+Finalize	node_modules/node-addon-api/napi-inl.h	/^inline void ObjectWrap<T>::Finalize(Napi::Env \/*env*\/) {}$/;"	f	class:Napi::ObjectWrap	typeref:typename:void
+FinalizeCallback	node_modules/node-addon-api/napi-inl.h	/^inline void ObjectWrap<T>::FinalizeCallback(napi_env env, void* data, void* \/*hint*\/) {$/;"	f	class:Napi::ObjectWrap	typeref:typename:void
+FinalizeData	node_modules/node-addon-api/napi-inl.h	/^struct FinalizeData {$/;"	s	namespace:Napi::details
+FinalizeFinalizeWrapperWithDataAndContext	node_modules/node-addon-api/napi-inl.h	/^  void FinalizeFinalizeWrapperWithDataAndContext(napi_env env,$/;"	f	struct:Napi::details::ThreadSafeFinalize	typeref:typename:void
+FinalizeWrapperWithContext	node_modules/node-addon-api/napi-inl.h	/^  void FinalizeWrapperWithContext(napi_env env,$/;"	f	struct:Napi::details::ThreadSafeFinalize	typeref:typename:void
+FinalizeWrapperWithData	node_modules/node-addon-api/napi-inl.h	/^  void FinalizeWrapperWithData(napi_env env,$/;"	f	struct:Napi::details::ThreadSafeFinalize	typeref:typename:void
+Finalizer	node_modules/node-addon-api/napi.h	/^    template <typename T> using Finalizer = void (*)(Env, T*);$/;"	t	class:Napi::Env
+FinalizerWithHint	node_modules/node-addon-api/napi.h	/^    using FinalizerWithHint = void (*)(Env, DataType*, HintType*);$/;"	t	class:Napi::Env
+Float32Array	node_modules/node-addon-api/napi.h	/^  using Float32Array =$/;"	t	namespace:Napi	typeref:typename:TypedArrayOf<float>
+Float64Array	node_modules/node-addon-api/napi.h	/^  using Float64Array =$/;"	t	namespace:Napi	typeref:typename:TypedArrayOf<double>
+FloatValue	node_modules/node-addon-api/napi-inl.h	/^inline float Number::FloatValue() const {$/;"	f	class:Napi::Number	typeref:typename:float
+Freeze	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Freeze() {$/;"	f	class:Napi::Object	typeref:typename:bool
+From	node_modules/node-addon-api/napi-inl.h	/^  static Boolean From(napi_env env, bool value) {$/;"	f	struct:Napi::details::vf_number	typeref:typename:Boolean
+From	node_modules/node-addon-api/napi-inl.h	/^  static Number From(napi_env env, T value) {$/;"	f	struct:Napi::details::vf_number	typeref:typename:Number
+From	node_modules/node-addon-api/napi-inl.h	/^  static String From(napi_env env, const char* value) {$/;"	f	struct:Napi::details::vf_utf8_charp	typeref:typename:String
+From	node_modules/node-addon-api/napi-inl.h	/^  static String From(napi_env env, const char16_t* value) {$/;"	f	struct:Napi::details::vf_utf16_charp	typeref:typename:String
+From	node_modules/node-addon-api/napi-inl.h	/^  static String From(napi_env env, const std::string& value) {$/;"	f	struct:Napi::details::vf_utf8_string	typeref:typename:String
+From	node_modules/node-addon-api/napi-inl.h	/^  static String From(napi_env env, const std::u16string& value) {$/;"	f	struct:Napi::details::vf_utf16_string	typeref:typename:String
+From	node_modules/node-addon-api/napi-inl.h	/^  static Value From(napi_env env, const T& value) {$/;"	f	struct:Napi::details::vf_fallback	typeref:typename:Value
+From	node_modules/node-addon-api/napi-inl.h	/^String String::From(napi_env env, const T& value) {$/;"	f	class:Napi::String	typeref:typename:String
+From	node_modules/node-addon-api/napi-inl.h	/^Value Value::From(napi_env env, const T& value) {$/;"	f	class:Napi::Value	typeref:typename:Value
+Function	node_modules/node-addon-api/napi-inl.deprecated.h	/^inline PropertyDescriptor PropertyDescriptor::Function(Name name,$/;"	f	class:PropertyDescriptor	typeref:typename:PropertyDescriptor
+Function	node_modules/node-addon-api/napi-inl.deprecated.h	/^inline PropertyDescriptor PropertyDescriptor::Function(const char* utf8name,$/;"	f	class:PropertyDescriptor	typeref:typename:PropertyDescriptor
+Function	node_modules/node-addon-api/napi-inl.deprecated.h	/^inline PropertyDescriptor PropertyDescriptor::Function(const std::string& utf8name,$/;"	f	class:PropertyDescriptor	typeref:typename:PropertyDescriptor
+Function	node_modules/node-addon-api/napi-inl.deprecated.h	/^inline PropertyDescriptor PropertyDescriptor::Function(napi_value name,$/;"	f	class:PropertyDescriptor	typeref:typename:PropertyDescriptor
+Function	node_modules/node-addon-api/napi-inl.h	/^inline Function::Function() : Object() {$/;"	f	class:Napi::Function
+Function	node_modules/node-addon-api/napi-inl.h	/^inline Function::Function(napi_env env, napi_value value) : Object(env, value) {$/;"	f	class:Napi::Function
+Function	node_modules/node-addon-api/napi-inl.h	/^inline PropertyDescriptor PropertyDescriptor::Function(Napi::Env env,$/;"	f	class:Napi::PropertyDescriptor	typeref:typename:PropertyDescriptor
+Function	node_modules/node-addon-api/napi.h	/^  class Function : public Object {$/;"	c	namespace:Napi
+FunctionOrEmpty	node_modules/node-addon-api/napi-inl.h	/^TypedThreadSafeFunction<ContextType, DataType, CallJs>::FunctionOrEmpty($/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:Napi::Function
+FunctionReference	node_modules/node-addon-api/napi-inl.h	/^inline FunctionReference::FunctionReference(): Reference<Function>() {$/;"	f	class:Napi::FunctionReference
+FunctionReference	node_modules/node-addon-api/napi-inl.h	/^inline FunctionReference::FunctionReference(FunctionReference&& other)$/;"	f	class:Napi::FunctionReference
+FunctionReference	node_modules/node-addon-api/napi-inl.h	/^inline FunctionReference::FunctionReference(Reference<Function>&& other)$/;"	f	class:Napi::FunctionReference
+FunctionReference	node_modules/node-addon-api/napi-inl.h	/^inline FunctionReference::FunctionReference(napi_env env, napi_ref ref)$/;"	f	class:Napi::FunctionReference
+FunctionReference	node_modules/node-addon-api/napi.h	/^  class FunctionReference: public Reference<Function> {$/;"	c	namespace:Napi
+GYP_CFLAGS	node_modules/nice-napi/build/nice_napi.target.mk	/^$(OBJS): GYP_CFLAGS := $(DEFS_$(BUILDTYPE)) $(INCS_$(BUILDTYPE))  $(CFLAGS_$(BUILDTYPE)) $(CFLAG/;"	m
+GYP_CFLAGS	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(OBJS): GYP_CFLAGS := $(DEFS_$(BUILDTYPE)) $(INCS_$(BUILDTYPE))  $(CFLAGS_$(BUILDTYPE)) $(CFLAG/;"	m
+GYP_CXXFLAGS	node_modules/nice-napi/build/nice_napi.target.mk	/^$(OBJS): GYP_CXXFLAGS := $(DEFS_$(BUILDTYPE)) $(INCS_$(BUILDTYPE))  $(CFLAGS_$(BUILDTYPE)) $(CFL/;"	m
+GYP_CXXFLAGS	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(OBJS): GYP_CXXFLAGS := $(DEFS_$(BUILDTYPE)) $(INCS_$(BUILDTYPE))  $(CFLAGS_$(BUILDTYPE)) $(CFL/;"	m
+GYP_LDFLAGS	node_modules/nice-napi/build/nice_napi.target.mk	/^$(obj).target\/nice_napi.node: GYP_LDFLAGS := $(LDFLAGS_$(BUILDTYPE))$/;"	m
+GYP_LDFLAGS	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(obj).target\/node_modules\/node-addon-api\/nothing.a: GYP_LDFLAGS := $(LDFLAGS_$(BUILDTYPE))$/;"	m
+Get	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Value ObjectReference::Get(const char* utf8name) const {$/;"	f	class:Napi::ObjectReference	typeref:typename:Napi::Value
+Get	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Value ObjectReference::Get(const std::string& utf8name) const {$/;"	f	class:Napi::ObjectReference	typeref:typename:Napi::Value
+Get	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Value ObjectReference::Get(uint32_t index) const {$/;"	f	class:Napi::ObjectReference	typeref:typename:Napi::Value
+Get	node_modules/node-addon-api/napi-inl.h	/^inline Value Object::Get(Value key) const {$/;"	f	class:Napi::Object	typeref:typename:Value
+Get	node_modules/node-addon-api/napi-inl.h	/^inline Value Object::Get(const char* utf8name) const {$/;"	f	class:Napi::Object	typeref:typename:Value
+Get	node_modules/node-addon-api/napi-inl.h	/^inline Value Object::Get(const std::string& utf8name) const {$/;"	f	class:Napi::Object	typeref:typename:Value
+Get	node_modules/node-addon-api/napi-inl.h	/^inline Value Object::Get(napi_value key) const {$/;"	f	class:Napi::Object	typeref:typename:Value
+Get	node_modules/node-addon-api/napi-inl.h	/^inline Value Object::Get(uint32_t index) const {$/;"	f	class:Napi::Object	typeref:typename:Value
+GetAndClearPendingException	node_modules/node-addon-api/napi-inl.h	/^inline Error Env::GetAndClearPendingException() {$/;"	f	class:Napi::Env	typeref:typename:Error
+GetContext	node_modules/node-addon-api/napi-inl.h	/^ThreadSafeFunction::GetContext() const {$/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:ThreadSafeFunction::ConvertibleContext
+GetContext	node_modules/node-addon-api/napi-inl.h	/^TypedThreadSafeFunction<ContextType, DataType, CallJs>::GetContext() const {$/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:ContextType *
+GetFloat32	node_modules/node-addon-api/napi-inl.h	/^inline float DataView::GetFloat32(size_t byteOffset) const {$/;"	f	class:Napi::DataView	typeref:typename:float
+GetFloat64	node_modules/node-addon-api/napi-inl.h	/^inline double DataView::GetFloat64(size_t byteOffset) const {$/;"	f	class:Napi::DataView	typeref:typename:double
+GetInstanceData	node_modules/node-addon-api/napi-inl.h	/^inline T* Env::GetInstanceData() {$/;"	f	class:Napi::Env	typeref:typename:T *
+GetInt16	node_modules/node-addon-api/napi-inl.h	/^inline int16_t DataView::GetInt16(size_t byteOffset) const {$/;"	f	class:Napi::DataView	typeref:typename:int16_t
+GetInt32	node_modules/node-addon-api/napi-inl.h	/^inline int32_t DataView::GetInt32(size_t byteOffset) const {$/;"	f	class:Napi::DataView	typeref:typename:int32_t
+GetInt8	node_modules/node-addon-api/napi-inl.h	/^inline int8_t DataView::GetInt8(size_t byteOffset) const {$/;"	f	class:Napi::DataView	typeref:typename:int8_t
+GetNapiVersion	node_modules/node-addon-api/napi-inl.h	/^inline uint32_t VersionManagement::GetNapiVersion(Env env) {$/;"	f	class:Napi::VersionManagement	typeref:typename:uint32_t
+GetNodeVersion	node_modules/node-addon-api/napi-inl.h	/^inline const napi_node_version* VersionManagement::GetNodeVersion(Env env) {$/;"	f	class:Napi::VersionManagement	typeref:typename:const napi_node_version *
+GetPropertyNames	node_modules/node-addon-api/napi-inl.h	/^inline Array Object::GetPropertyNames() const {$/;"	f	class:Napi::Object	typeref:typename:Array
+GetResult	node_modules/node-addon-api/napi-inl.h	/^inline std::vector<napi_value> AsyncWorker::GetResult(Napi::Env \/*env*\/) {$/;"	f	class:Napi::AsyncWorker	typeref:typename:std::vector<napi_value>
+GetUint16	node_modules/node-addon-api/napi-inl.h	/^inline uint16_t DataView::GetUint16(size_t byteOffset) const {$/;"	f	class:Napi::DataView	typeref:typename:uint16_t
+GetUint32	node_modules/node-addon-api/napi-inl.h	/^inline uint32_t DataView::GetUint32(size_t byteOffset) const {$/;"	f	class:Napi::DataView	typeref:typename:uint32_t
+GetUint8	node_modules/node-addon-api/napi-inl.h	/^inline uint8_t DataView::GetUint8(size_t byteOffset) const {$/;"	f	class:Napi::DataView	typeref:typename:uint8_t
+GetterCallback	node_modules/node-addon-api/napi.h	/^   using GetterCallback = Napi::Value (*)(const Napi::CallbackInfo& info);$/;"	t	class:Napi::PropertyDescriptor
+GetterWrapper	node_modules/node-addon-api/napi-inl.h	/^  napi_value GetterWrapper(napi_env env, napi_callback_info info) {$/;"	f	struct:Napi::details::AccessorCallbackData	typeref:typename:napi_value
+Global	node_modules/node-addon-api/napi-inl.h	/^inline Object Env::Global() const {$/;"	f	class:Napi::Env	typeref:typename:Object
+HandleScope	node_modules/node-addon-api/napi-inl.h	/^inline HandleScope::HandleScope(Napi::Env env) : _env(env) {$/;"	f	class:Napi::HandleScope
+HandleScope	node_modules/node-addon-api/napi-inl.h	/^inline HandleScope::HandleScope(napi_env env, napi_handle_scope scope)$/;"	f	class:Napi::HandleScope
+HandleScope	node_modules/node-addon-api/napi.h	/^  class HandleScope {$/;"	c	namespace:Napi
+Has	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Has(Value key) const {$/;"	f	class:Napi::Object	typeref:typename:bool
+Has	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Has(const char* utf8name) const {$/;"	f	class:Napi::Object	typeref:typename:bool
+Has	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Has(const std::string& utf8name) const {$/;"	f	class:Napi::Object	typeref:typename:bool
+Has	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Has(napi_value key) const {$/;"	f	class:Napi::Object	typeref:typename:bool
+Has	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Has(uint32_t index) const {$/;"	f	class:Napi::Object	typeref:typename:bool
+HasOwnProperty	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::HasOwnProperty(Value key) const {$/;"	f	class:Napi::Object	typeref:typename:bool
+HasOwnProperty	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::HasOwnProperty(const char* utf8name) const {$/;"	f	class:Napi::Object	typeref:typename:bool
+HasOwnProperty	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::HasOwnProperty(const std::string& utf8name) const {$/;"	f	class:Napi::Object	typeref:typename:bool
+HasOwnProperty	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::HasOwnProperty(napi_value key) const {$/;"	f	class:Napi::Object	typeref:typename:bool
+Helper	node_modules/node-addon-api/napi-inl.h	/^  using Helper = typename std::conditional<$/;"	t	function:Napi::String::From
+Helper	node_modules/node-addon-api/napi-inl.h	/^  using Helper = typename std::conditional<$/;"	t	function:Napi::Value::From
+INCS_Debug	node_modules/nice-napi/build/nice_napi.target.mk	/^INCS_Debug := \\$/;"	m
+INCS_Debug	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^INCS_Debug := \\$/;"	m
+INCS_Release	node_modules/nice-napi/build/nice_napi.target.mk	/^INCS_Release := \\$/;"	m
+INCS_Release	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^INCS_Release := \\$/;"	m
+Init	node_modules/nice-napi/binding.cc	/^static Object Init(Env env, Object exports) {$/;"	f	typeref:typename:Object	file:
+Init	node_modules/node-addon-api/napi-inl.h	/^inline Object Addon<T>::Init(Env env, Object exports) {$/;"	f	class:Napi::Addon	typeref:typename:Object
+InstanceAccessor	node_modules/node-addon-api/napi-inl.h	/^inline ClassPropertyDescriptor<T> InstanceWrap<T>::InstanceAccessor($/;"	f	class:Napi::InstanceWrap	typeref:typename:ClassPropertyDescriptor<T>
+InstanceAccessorCallbackData	node_modules/node-addon-api/napi.h	/^    using InstanceAccessorCallbackData =$/;"	t	class:Napi::InstanceWrap	typeref:typename:AccessorCallbackData<T,InstanceGetterCallback,InstanceSetterCallback>
+InstanceGetterCallback	node_modules/node-addon-api/napi.h	/^    using InstanceGetterCallback = Napi::Value (T::*)(const CallbackInfo& info);$/;"	t	class:Napi::InstanceWrap
+InstanceGetterCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^inline napi_value InstanceWrap<T>::InstanceGetterCallbackWrapper($/;"	f	class:Napi::InstanceWrap	typeref:typename:napi_value
+InstanceMethod	node_modules/node-addon-api/napi-inl.h	/^inline ClassPropertyDescriptor<T> InstanceWrap<T>::InstanceMethod($/;"	f	class:Napi::InstanceWrap	typeref:typename:ClassPropertyDescriptor<T>
+InstanceMethodCallback	node_modules/node-addon-api/napi.h	/^    using InstanceMethodCallback = Napi::Value (T::*)(const CallbackInfo& info);$/;"	t	class:Napi::InstanceWrap
+InstanceMethodCallbackData	node_modules/node-addon-api/napi.h	/^    using InstanceMethodCallbackData =$/;"	t	class:Napi::InstanceWrap	typeref:typename:MethodCallbackData<T,InstanceMethodCallback>
+InstanceMethodCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^inline napi_value InstanceWrap<T>::InstanceMethodCallbackWrapper($/;"	f	class:Napi::InstanceWrap	typeref:typename:napi_value
+InstanceOf	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::InstanceOf(const Function& constructor) const {$/;"	f	class:Napi::Object	typeref:typename:bool
+InstanceSetterCallback	node_modules/node-addon-api/napi.h	/^    using InstanceSetterCallback = void (T::*)(const CallbackInfo& info,$/;"	t	class:Napi::InstanceWrap
+InstanceSetterCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^inline napi_value InstanceWrap<T>::InstanceSetterCallbackWrapper($/;"	f	class:Napi::InstanceWrap	typeref:typename:napi_value
+InstanceValue	node_modules/node-addon-api/napi-inl.h	/^inline ClassPropertyDescriptor<T> InstanceWrap<T>::InstanceValue($/;"	f	class:Napi::InstanceWrap	typeref:typename:ClassPropertyDescriptor<T>
+InstanceVoidMethodCallback	node_modules/node-addon-api/napi.h	/^    using InstanceVoidMethodCallback = void (T::*)(const CallbackInfo& info);$/;"	t	class:Napi::InstanceWrap
+InstanceVoidMethodCallbackData	node_modules/node-addon-api/napi.h	/^    using InstanceVoidMethodCallbackData =$/;"	t	class:Napi::InstanceWrap	typeref:typename:MethodCallbackData<T,InstanceVoidMethodCallback>
+InstanceVoidMethodCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^inline napi_value InstanceWrap<T>::InstanceVoidMethodCallbackWrapper($/;"	f	class:Napi::InstanceWrap	typeref:typename:napi_value
+InstanceWrap	node_modules/node-addon-api/napi.h	/^  class InstanceWrap {$/;"	c	namespace:Napi
+Int16Array	node_modules/node-addon-api/napi.h	/^  using Int16Array =$/;"	t	namespace:Napi	typeref:typename:TypedArrayOf<int16_t>
+Int32Array	node_modules/node-addon-api/napi.h	/^  using Int32Array =$/;"	t	namespace:Napi	typeref:typename:TypedArrayOf<int32_t>
+Int32Value	node_modules/node-addon-api/napi-inl.h	/^inline int32_t Number::Int32Value() const {$/;"	f	class:Napi::Number	typeref:typename:int32_t
+Int64Value	node_modules/node-addon-api/napi-inl.h	/^inline int64_t BigInt::Int64Value(bool* lossless) const {$/;"	f	class:Napi::BigInt	typeref:typename:int64_t
+Int64Value	node_modules/node-addon-api/napi-inl.h	/^inline int64_t Number::Int64Value() const {$/;"	f	class:Napi::Number	typeref:typename:int64_t
+Int8Array	node_modules/node-addon-api/napi.h	/^  using Int8Array =$/;"	t	namespace:Napi	typeref:typename:TypedArrayOf<int8_t>
+IsArray	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsArray() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsArrayBuffer	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsArrayBuffer() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsBigInt	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsBigInt() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsBoolean	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsBoolean() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsBuffer	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsBuffer() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsConstructCall	node_modules/node-addon-api/napi-inl.h	/^inline bool CallbackInfo::IsConstructCall() const {$/;"	f	class:Napi::CallbackInfo	typeref:typename:bool
+IsDataView	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsDataView() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsDate	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsDate() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsDetached	node_modules/node-addon-api/napi-inl.h	/^inline bool ArrayBuffer::IsDetached() const {$/;"	f	class:Napi::ArrayBuffer	typeref:typename:bool
+IsEmpty	node_modules/node-addon-api/napi-inl.h	/^inline bool Reference<T>::IsEmpty() const {$/;"	f	class:Napi::Reference	typeref:typename:bool
+IsEmpty	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsEmpty() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsExceptionPending	node_modules/node-addon-api/napi-inl.h	/^inline bool Env::IsExceptionPending() const {$/;"	f	class:Napi::Env	typeref:typename:bool
+IsExternal	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsExternal() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsFunction	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsFunction() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsNull	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsNull() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsNumber	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsNumber() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsObject	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsObject() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsPromise	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsPromise() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsString	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsString() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsSymbol	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsSymbol() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsTypedArray	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsTypedArray() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+IsUndefined	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::IsUndefined() const {$/;"	f	class:Napi::Value	typeref:typename:bool
+LDFLAGS.host	node_modules/nice-napi/build/Makefile	/^LDFLAGS.host ?=$/;"	m
+LDFLAGS.target	node_modules/nice-napi/build/Makefile	/^LDFLAGS.target ?= $(LDFLAGS)$/;"	m
+LDFLAGS_Debug	node_modules/nice-napi/build/nice_napi.target.mk	/^LDFLAGS_Debug := \\$/;"	m
+LDFLAGS_Debug	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^LDFLAGS_Debug := \\$/;"	m
+LDFLAGS_Release	node_modules/nice-napi/build/nice_napi.target.mk	/^LDFLAGS_Release := \\$/;"	m
+LDFLAGS_Release	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^LDFLAGS_Release := \\$/;"	m
+LIBS	node_modules/nice-napi/build/nice_napi.target.mk	/^$(obj).target\/nice_napi.node: LIBS := $(LIBS)$/;"	m
+LIBS	node_modules/nice-napi/build/nice_napi.target.mk	/^LIBS :=$/;"	m
+LIBS	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(obj).target\/node_modules\/node-addon-api\/nothing.a: LIBS := $(LIBS)$/;"	m
+LIBS	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^LIBS :=$/;"	m
+LINK	node_modules/nice-napi/build/Makefile	/^LINK ?= $(CXX.target)$/;"	m
+LINK.host	node_modules/nice-napi/build/Makefile	/^LINK.host ?= $(CXX.host)$/;"	m
+LINK.target	node_modules/nice-napi/build/Makefile	/^LINK.target ?= $(LINK)$/;"	m
+Length	node_modules/node-addon-api/napi-inl.h	/^inline size_t Buffer<T>::Length() const {$/;"	f	class:Napi::Buffer	typeref:typename:size_t
+Length	node_modules/node-addon-api/napi-inl.h	/^inline size_t CallbackInfo::Length() const {$/;"	f	class:Napi::CallbackInfo	typeref:typename:size_t
+Length	node_modules/node-addon-api/napi-inl.h	/^inline uint32_t Array::Length() const {$/;"	f	class:Napi::Array	typeref:typename:uint32_t
+MAKEFLAGS	node_modules/nice-napi/build/Makefile	/^MAKEFLAGS=-r$/;"	m
+MakeCallback	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Value FunctionReference::MakeCallback($/;"	f	class:Napi::FunctionReference	typeref:typename:Napi::Value
+MakeCallback	node_modules/node-addon-api/napi-inl.h	/^inline Value Function::MakeCallback($/;"	f	class:Napi::Function	typeref:typename:Value
+Makefile	node_modules/nice-napi/build/Makefile	/^Makefile: $(srcdir)\/node_modules\/node-addon-api\/node_api.gyp $(srcdir)\/binding.gyp $(srcdir)/;"	t
+MemoryManagement	node_modules/node-addon-api/napi.h	/^  class MemoryManagement {$/;"	c	namespace:Napi
+Message	node_modules/node-addon-api/napi-inl.h	/^inline const std::string& Error::Message() const NAPI_NOEXCEPT {$/;"	f	class:Napi::Error	typeref:typename:const std::string &
+MethodCallbackData	node_modules/node-addon-api/napi.h	/^  struct MethodCallbackData {$/;"	s	namespace:Napi
+ModuleRegisterCallback	node_modules/node-addon-api/napi.h	/^  using ModuleRegisterCallback = Object (*)(Env env, Object exports);$/;"	t	namespace:Napi
+NAPI_CPP_EXCEPTIONS	node_modules/node-addon-api/napi.h	/^    #define NAPI_CPP_EXCEPTIONS$/;"	d
+NAPI_DISALLOW_ASSIGN	node_modules/node-addon-api/napi.h	/^# define NAPI_DISALLOW_ASSIGN(/;"	d
+NAPI_DISALLOW_ASSIGN_COPY	node_modules/node-addon-api/napi.h	/^#define NAPI_DISALLOW_ASSIGN_COPY(/;"	d
+NAPI_DISALLOW_COPY	node_modules/node-addon-api/napi.h	/^# define NAPI_DISALLOW_COPY(/;"	d
+NAPI_FATAL_IF_FAILED	node_modules/node-addon-api/napi.h	/^#define NAPI_FATAL_IF_FAILED(/;"	d
+NAPI_HAS_CONSTEXPR	node_modules/node-addon-api/napi.h	/^#define NAPI_HAS_CONSTEXPR /;"	d
+NAPI_NOEXCEPT	node_modules/node-addon-api/napi.h	/^  #define NAPI_NOEXCEPT /;"	d
+NAPI_THROW	node_modules/node-addon-api/napi.h	/^#define NAPI_THROW(/;"	d
+NAPI_THROW_IF_FAILED	node_modules/node-addon-api/napi.h	/^#define NAPI_THROW_IF_FAILED(/;"	d
+NAPI_THROW_IF_FAILED_VOID	node_modules/node-addon-api/napi.h	/^#define NAPI_THROW_IF_FAILED_VOID(/;"	d
+NAPI_THROW_VOID	node_modules/node-addon-api/napi.h	/^#define NAPI_THROW_VOID(/;"	d
+NAPI_WIDE_TEXT	node_modules/node-addon-api/napi.h	/^#define NAPI_WIDE_TEXT(/;"	d
+NODE	node_modules/body-parser/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/compression/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/connect/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/custom-event/Makefile	/^NODE ?= node$/;"	m
+NODE	node_modules/dom-serialize/Makefile	/^NODE ?= node$/;"	m
+NODE	node_modules/express/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/finalhandler/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/send/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE	node_modules/serve-index/node_modules/debug/Makefile	/^NODE ?= $(shell which node)$/;"	m
+NODE_API_ADDON	node_modules/node-addon-api/napi-inl.h	/^#define NODE_API_ADDON(/;"	d
+NODE_API_MODULE	node_modules/node-addon-api/napi-inl.h	/^#define NODE_API_MODULE(/;"	d
+NODE_API_NAMED_ADDON	node_modules/node-addon-api/napi-inl.h	/^#define NODE_API_NAMED_ADDON(/;"	d
+Name	node_modules/node-addon-api/napi-inl.h	/^inline Name::Name() : Value() {$/;"	f	class:Napi::Name
+Name	node_modules/node-addon-api/napi-inl.h	/^inline Name::Name(napi_env env, napi_value value) : Value(env, value) {$/;"	f	class:Napi::Name
+Name	node_modules/node-addon-api/napi.h	/^  class Name : public Value {$/;"	c	namespace:Napi
+Napi	node_modules/node-addon-api/napi-inl.h	/^namespace Napi {$/;"	n
+Napi	node_modules/node-addon-api/napi.h	/^namespace Napi {$/;"	n
+New	node_modules/node-addon-api/napi-inl.h	/^TypedThreadSafeFunction<ContextType, DataType, CallJs>::New($/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:TypedThreadSafeFunction<ContextType,DataType,CallJs>
+New	node_modules/node-addon-api/napi-inl.h	/^inline Array Array::New(napi_env env) {$/;"	f	class:Napi::Array	typeref:typename:Array
+New	node_modules/node-addon-api/napi-inl.h	/^inline Array Array::New(napi_env env, size_t length) {$/;"	f	class:Napi::Array	typeref:typename:Array
+New	node_modules/node-addon-api/napi-inl.h	/^inline ArrayBuffer ArrayBuffer::New(napi_env env, size_t byteLength) {$/;"	f	class:Napi::ArrayBuffer	typeref:typename:ArrayBuffer
+New	node_modules/node-addon-api/napi-inl.h	/^inline ArrayBuffer ArrayBuffer::New(napi_env env,$/;"	f	class:Napi::ArrayBuffer	typeref:typename:ArrayBuffer
+New	node_modules/node-addon-api/napi-inl.h	/^inline BigInt BigInt::New(napi_env env, int sign_bit, size_t word_count, const uint64_t* words) /;"	f	class:Napi::BigInt	typeref:typename:BigInt
+New	node_modules/node-addon-api/napi-inl.h	/^inline BigInt BigInt::New(napi_env env, int64_t val) {$/;"	f	class:Napi::BigInt	typeref:typename:BigInt
+New	node_modules/node-addon-api/napi-inl.h	/^inline BigInt BigInt::New(napi_env env, uint64_t val) {$/;"	f	class:Napi::BigInt	typeref:typename:BigInt
+New	node_modules/node-addon-api/napi-inl.h	/^inline Boolean Boolean::New(napi_env env, bool val) {$/;"	f	class:Napi::Boolean	typeref:typename:Boolean
+New	node_modules/node-addon-api/napi-inl.h	/^inline Buffer<T> Buffer<T>::New(napi_env env, T* data, size_t length) {$/;"	f	class:Napi::Buffer	typeref:typename:Buffer<T>
+New	node_modules/node-addon-api/napi-inl.h	/^inline Buffer<T> Buffer<T>::New(napi_env env, size_t length) {$/;"	f	class:Napi::Buffer	typeref:typename:Buffer<T>
+New	node_modules/node-addon-api/napi-inl.h	/^inline Buffer<T> Buffer<T>::New(napi_env env,$/;"	f	class:Napi::Buffer	typeref:typename:Buffer<T>
+New	node_modules/node-addon-api/napi-inl.h	/^inline DataView DataView::New(napi_env env,$/;"	f	class:Napi::DataView	typeref:typename:DataView
+New	node_modules/node-addon-api/napi-inl.h	/^inline Date Date::New(napi_env env, double val) {$/;"	f	class:Napi::Date	typeref:typename:Date
+New	node_modules/node-addon-api/napi-inl.h	/^inline Error Error::New(napi_env env) {$/;"	f	class:Napi::Error	typeref:typename:Error
+New	node_modules/node-addon-api/napi-inl.h	/^inline Error Error::New(napi_env env, const char* message) {$/;"	f	class:Napi::Error	typeref:typename:Error
+New	node_modules/node-addon-api/napi-inl.h	/^inline Error Error::New(napi_env env, const std::string& message) {$/;"	f	class:Napi::Error	typeref:typename:Error
+New	node_modules/node-addon-api/napi-inl.h	/^inline External<T> External<T>::New(napi_env env, T* data) {$/;"	f	class:Napi::External	typeref:typename:External<T>
+New	node_modules/node-addon-api/napi-inl.h	/^inline External<T> External<T>::New(napi_env env,$/;"	f	class:Napi::External	typeref:typename:External<T>
+New	node_modules/node-addon-api/napi-inl.h	/^inline Function Function::New(napi_env env, const char* utf8name, void* data) {$/;"	f	class:Napi::Function	typeref:typename:Function
+New	node_modules/node-addon-api/napi-inl.h	/^inline Function Function::New(napi_env env,$/;"	f	class:Napi::Function	typeref:typename:Function
+New	node_modules/node-addon-api/napi-inl.h	/^inline Number Number::New(napi_env env, double val) {$/;"	f	class:Napi::Number	typeref:typename:Number
+New	node_modules/node-addon-api/napi-inl.h	/^inline Object Function::New(const std::initializer_list<napi_value>& args) const {$/;"	f	class:Napi::Function	typeref:typename:Object
+New	node_modules/node-addon-api/napi-inl.h	/^inline Object Function::New(const std::vector<napi_value>& args) const {$/;"	f	class:Napi::Function	typeref:typename:Object
+New	node_modules/node-addon-api/napi-inl.h	/^inline Object Function::New(size_t argc, const napi_value* args) const {$/;"	f	class:Napi::Function	typeref:typename:Object
+New	node_modules/node-addon-api/napi-inl.h	/^inline Object FunctionReference::New(const std::initializer_list<napi_value>& args) const {$/;"	f	class:Napi::FunctionReference	typeref:typename:Object
+New	node_modules/node-addon-api/napi-inl.h	/^inline Object FunctionReference::New(const std::vector<napi_value>& args) const {$/;"	f	class:Napi::FunctionReference	typeref:typename:Object
+New	node_modules/node-addon-api/napi-inl.h	/^inline Object Object::New(napi_env env) {$/;"	f	class:Napi::Object	typeref:typename:Object
+New	node_modules/node-addon-api/napi-inl.h	/^inline Promise::Deferred Promise::Deferred::New(napi_env env) {$/;"	f	class:Napi::Promise::Deferred	typeref:typename:Promise::Deferred
+New	node_modules/node-addon-api/napi-inl.h	/^inline RangeError RangeError::New(napi_env env, const char* message) {$/;"	f	class:Napi::RangeError	typeref:typename:RangeError
+New	node_modules/node-addon-api/napi-inl.h	/^inline RangeError RangeError::New(napi_env env, const std::string& message) {$/;"	f	class:Napi::RangeError	typeref:typename:RangeError
+New	node_modules/node-addon-api/napi-inl.h	/^inline Reference<T> Reference<T>::New(const T& value, uint32_t initialRefcount) {$/;"	f	class:Napi::Reference	typeref:typename:Reference<T>
+New	node_modules/node-addon-api/napi-inl.h	/^inline String String::New(napi_env env, const char* val) {$/;"	f	class:Napi::String	typeref:typename:String
+New	node_modules/node-addon-api/napi-inl.h	/^inline String String::New(napi_env env, const char* val, size_t length) {$/;"	f	class:Napi::String	typeref:typename:String
+New	node_modules/node-addon-api/napi-inl.h	/^inline String String::New(napi_env env, const char16_t* val) {$/;"	f	class:Napi::String	typeref:typename:String
+New	node_modules/node-addon-api/napi-inl.h	/^inline String String::New(napi_env env, const char16_t* val, size_t length) {$/;"	f	class:Napi::String	typeref:typename:String
+New	node_modules/node-addon-api/napi-inl.h	/^inline String String::New(napi_env env, const std::string& val) {$/;"	f	class:Napi::String	typeref:typename:String
+New	node_modules/node-addon-api/napi-inl.h	/^inline String String::New(napi_env env, const std::u16string& val) {$/;"	f	class:Napi::String	typeref:typename:String
+New	node_modules/node-addon-api/napi-inl.h	/^inline Symbol Symbol::New(napi_env env, String description) {$/;"	f	class:Napi::Symbol	typeref:typename:Symbol
+New	node_modules/node-addon-api/napi-inl.h	/^inline Symbol Symbol::New(napi_env env, const char* description) {$/;"	f	class:Napi::Symbol	typeref:typename:Symbol
+New	node_modules/node-addon-api/napi-inl.h	/^inline Symbol Symbol::New(napi_env env, const std::string& description) {$/;"	f	class:Napi::Symbol	typeref:typename:Symbol
+New	node_modules/node-addon-api/napi-inl.h	/^inline Symbol Symbol::New(napi_env env, napi_value description) {$/;"	f	class:Napi::Symbol	typeref:typename:Symbol
+New	node_modules/node-addon-api/napi-inl.h	/^inline TError Error::New(napi_env env,$/;"	f	class:Napi::Error	typeref:typename:TError
+New	node_modules/node-addon-api/napi-inl.h	/^inline ThreadSafeFunction ThreadSafeFunction::New(napi_env env,$/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:ThreadSafeFunction
+New	node_modules/node-addon-api/napi-inl.h	/^inline TypeError TypeError::New(napi_env env, const char* message) {$/;"	f	class:Napi::TypeError	typeref:typename:TypeError
+New	node_modules/node-addon-api/napi-inl.h	/^inline TypeError TypeError::New(napi_env env, const std::string& message) {$/;"	f	class:Napi::TypeError	typeref:typename:TypeError
+New	node_modules/node-addon-api/napi-inl.h	/^inline TypedArrayOf<T> TypedArrayOf<T>::New(napi_env env,$/;"	f	class:Napi::TypedArrayOf	typeref:typename:TypedArrayOf<T>
+NewTarget	node_modules/node-addon-api/napi-inl.h	/^inline Value CallbackInfo::NewTarget() const {$/;"	f	class:Napi::CallbackInfo	typeref:typename:Value
+Nice	node_modules/nice-napi/binding.cc	/^Value Nice(const CallbackInfo& args) {$/;"	f	typeref:typename:Value
+NonBlockingCall	node_modules/node-addon-api/napi-inl.h	/^TypedThreadSafeFunction<ContextType, DataType, CallJs>::NonBlockingCall($/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:napi_status
+NonBlockingCall	node_modules/node-addon-api/napi-inl.h	/^inline napi_status AsyncProgressWorkerBase<DataType>::NonBlockingCall(DataType* data) {$/;"	f	class:Napi::AsyncProgressWorkerBase	typeref:typename:napi_status
+NonBlockingCall	node_modules/node-addon-api/napi-inl.h	/^inline napi_status ThreadSafeFunction::NonBlockingCall($/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:napi_status
+NonBlockingCall	node_modules/node-addon-api/napi-inl.h	/^inline napi_status ThreadSafeFunction::NonBlockingCall() const {$/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:napi_status
+Null	node_modules/node-addon-api/napi-inl.h	/^inline Value Env::Null() const {$/;"	f	class:Napi::Env	typeref:typename:Value
+Number	node_modules/node-addon-api/napi-inl.h	/^inline Number::Number() : Value() {$/;"	f	class:Napi::Number
+Number	node_modules/node-addon-api/napi-inl.h	/^inline Number::Number(napi_env env, napi_value value) : Value(env, value) {$/;"	f	class:Napi::Number
+Number	node_modules/node-addon-api/napi.h	/^  class Number : public Value {$/;"	c	namespace:Napi
+OBJS	node_modules/nice-napi/build/nice_napi.target.mk	/^OBJS := \\$/;"	m
+OBJS	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^OBJS := \\$/;"	m
+Object	node_modules/node-addon-api/napi-inl.h	/^inline Object::Object() : Value() {$/;"	f	class:Napi::Object
+Object	node_modules/node-addon-api/napi-inl.h	/^inline Object::Object(napi_env env, napi_value value) : Value(env, value) {$/;"	f	class:Napi::Object
+Object	node_modules/node-addon-api/napi.h	/^  class Object : public Value {$/;"	c	namespace:Napi
+ObjectReference	node_modules/node-addon-api/napi-inl.h	/^inline ObjectReference::ObjectReference(): Reference<Object>() {$/;"	f	class:Napi::ObjectReference
+ObjectReference	node_modules/node-addon-api/napi-inl.h	/^inline ObjectReference::ObjectReference(ObjectReference&& other)$/;"	f	class:Napi::ObjectReference
+ObjectReference	node_modules/node-addon-api/napi-inl.h	/^inline ObjectReference::ObjectReference(Reference<Object>&& other)$/;"	f	class:Napi::ObjectReference
+ObjectReference	node_modules/node-addon-api/napi-inl.h	/^inline ObjectReference::ObjectReference(const ObjectReference& other)$/;"	f	class:Napi::ObjectReference
+ObjectReference	node_modules/node-addon-api/napi-inl.h	/^inline ObjectReference::ObjectReference(napi_env env, napi_ref ref): Reference<Object>(env, ref)/;"	f	class:Napi::ObjectReference
+ObjectReference	node_modules/node-addon-api/napi.h	/^  class ObjectReference: public Reference<Object> {$/;"	c	namespace:Napi
+ObjectWrap	node_modules/node-addon-api/napi-inl.h	/^inline ObjectWrap<T>::ObjectWrap(const Napi::CallbackInfo& callbackInfo) {$/;"	f	class:Napi::ObjectWrap
+ObjectWrap	node_modules/node-addon-api/napi.h	/^  class ObjectWrap : public InstanceWrap<T>, public Reference<Object> {$/;"	c	namespace:Napi
+OnAsyncWorkComplete	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncWorker::OnAsyncWorkComplete(napi_env env,$/;"	f	class:Napi::AsyncWorker	typeref:typename:void
+OnAsyncWorkExecute	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncWorker::OnAsyncWorkExecute(napi_env env, void* asyncworker) {$/;"	f	class:Napi::AsyncWorker	typeref:typename:void
+OnAsyncWorkProgress	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressWorkerBase<DataType>::OnAsyncWorkProgress(Napi::Env \/* env *\/,$/;"	f	class:Napi::AsyncProgressWorkerBase	typeref:typename:void
+OnError	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncWorker::OnError(const Error& e) {$/;"	f	class:Napi::AsyncWorker	typeref:typename:void
+OnExecute	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncWorker::OnExecute(Napi::Env \/*DO_NOT_USE*\/) {$/;"	f	class:Napi::AsyncWorker	typeref:typename:void
+OnOK	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncWorker::OnOK() {$/;"	f	class:Napi::AsyncWorker	typeref:typename:void
+OnThreadSafeFunctionFinalize	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressWorkerBase<DataType>::OnThreadSafeFunctionFinalize(Napi::Env env, void*/;"	f	class:Napi::AsyncProgressWorkerBase	typeref:typename:void
+OnWorkComplete	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressQueueWorker<T>::OnWorkComplete(Napi::Env env, napi_status status) {$/;"	f	class:Napi::AsyncProgressQueueWorker	typeref:typename:void
+OnWorkComplete	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressWorkerBase<DataType>::OnWorkComplete(Napi::Env \/* env *\/, napi_status/;"	f	class:Napi::AsyncProgressWorkerBase	typeref:typename:void
+OnWorkComplete	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncWorker::OnWorkComplete(Napi::Env \/*env*\/, napi_status status) {$/;"	f	class:Napi::AsyncWorker	typeref:typename:void
+OnWorkProgress	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressQueueWorker<T>::OnWorkProgress(std::pair<T*, size_t>* datapair) {$/;"	f	class:Napi::AsyncProgressQueueWorker	typeref:typename:void
+OnWorkProgress	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressWorker<T>::OnWorkProgress(void*) {$/;"	f	class:Napi::AsyncProgressWorker	typeref:typename:void
+PATH	node_modules/body-parser/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/compression/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/connect/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/express/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/finalhandler/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/send/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PATH	node_modules/serve-index/node_modules/debug/Makefile	/^PATH := node_modules\/.bin:$(PATH)$/;"	m
+PKG	node_modules/body-parser/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/compression/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/connect/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/express/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/finalhandler/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/send/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+PKG	node_modules/serve-index/node_modules/debug/Makefile	/^PKG ?= $(if $(YARN),$(YARN),$(NODE) $(shell which npm))$/;"	m
+Persistent	node_modules/node-addon-api/napi-inl.h	/^inline FunctionReference Persistent(Function value) {$/;"	f	namespace:Napi	typeref:typename:FunctionReference
+Persistent	node_modules/node-addon-api/napi-inl.h	/^inline ObjectReference Persistent(Object value) {$/;"	f	namespace:Napi	typeref:typename:ObjectReference
+Persistent	node_modules/node-addon-api/napi-inl.h	/^inline Reference<T> Persistent(T value) {$/;"	f	namespace:Napi	typeref:typename:Reference<T>
+Promise	node_modules/node-addon-api/napi-inl.h	/^inline Promise Promise::Deferred::Promise() const {$/;"	f	class:Napi::Promise::Deferred	typeref:typename:Promise
+Promise	node_modules/node-addon-api/napi-inl.h	/^inline Promise::Promise(napi_env env, napi_value value) : Object(env, value) {$/;"	f	class:Napi::Promise
+Promise	node_modules/node-addon-api/napi.h	/^  class Promise : public Object {$/;"	c	namespace:Napi
+PropertyDescriptor	node_modules/node-addon-api/napi-inl.h	/^inline PropertyDescriptor::PropertyDescriptor(napi_property_descriptor desc)$/;"	f	class:Napi::PropertyDescriptor
+PropertyDescriptor	node_modules/node-addon-api/napi.h	/^    using PropertyDescriptor = ClassPropertyDescriptor<T>;$/;"	t	class:Napi::InstanceWrap	typeref:typename:ClassPropertyDescriptor<T>
+PropertyDescriptor	node_modules/node-addon-api/napi.h	/^    using PropertyDescriptor = ClassPropertyDescriptor<T>;$/;"	t	class:Napi::ObjectWrap	typeref:typename:ClassPropertyDescriptor<T>
+PropertyDescriptor	node_modules/node-addon-api/napi.h	/^  class PropertyDescriptor {$/;"	c	namespace:Napi
+PropertyLValue	node_modules/node-addon-api/napi-inl.h	/^inline Object::PropertyLValue<Key>::PropertyLValue(Object object, Key key)$/;"	f	class:Napi::Object::PropertyLValue
+PropertyLValue	node_modules/node-addon-api/napi.h	/^    class PropertyLValue {$/;"	c	class:Napi::Object
+Queue	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncWorker::Queue() {$/;"	f	class:Napi::AsyncWorker	typeref:typename:void
+RangeError	node_modules/node-addon-api/napi-inl.h	/^inline RangeError::RangeError() : Error() {$/;"	f	class:Napi::RangeError
+RangeError	node_modules/node-addon-api/napi-inl.h	/^inline RangeError::RangeError(napi_env env, napi_value value) : Error(env, value) {$/;"	f	class:Napi::RangeError
+RangeError	node_modules/node-addon-api/napi.h	/^  class RangeError : public Error {$/;"	c	namespace:Napi
+ReadData	node_modules/node-addon-api/napi-inl.h	/^inline T DataView::ReadData(size_t byteOffset) const {$/;"	f	class:Napi::DataView	typeref:typename:T
+Receiver	node_modules/node-addon-api/napi-inl.h	/^inline ObjectReference& AsyncWorker::Receiver() {$/;"	f	class:Napi::AsyncWorker	typeref:typename:ObjectReference &
+Ref	node_modules/node-addon-api/napi-inl.h	/^inline uint32_t Reference<T>::Ref() {$/;"	f	class:Napi::Reference	typeref:typename:uint32_t
+Ref	node_modules/node-addon-api/napi-inl.h	/^inline void ThreadSafeFunction::Ref(napi_env env) const {$/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:void
+Ref	node_modules/node-addon-api/napi-inl.h	/^inline void TypedThreadSafeFunction<ContextType, DataType, CallJs>::Ref($/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:void
+Reference	node_modules/node-addon-api/napi-inl.h	/^inline Reference<T>::Reference() : _env(nullptr), _ref(nullptr), _suppressDestruct(false) {$/;"	f	class:Napi::Reference
+Reference	node_modules/node-addon-api/napi-inl.h	/^inline Reference<T>::Reference(Reference<T>&& other)$/;"	f	class:Napi::Reference
+Reference	node_modules/node-addon-api/napi-inl.h	/^inline Reference<T>::Reference(const Reference<T>& other)$/;"	f	class:Napi::Reference
+Reference	node_modules/node-addon-api/napi-inl.h	/^inline Reference<T>::Reference(napi_env env, napi_ref ref)$/;"	f	class:Napi::Reference
+Reference	node_modules/node-addon-api/napi.h	/^  class Reference {$/;"	c	namespace:Napi
+RegisterModule	node_modules/node-addon-api/napi-inl.h	/^inline napi_value RegisterModule(napi_env env,$/;"	f	namespace:Napi	typeref:typename:napi_value
+Reject	node_modules/node-addon-api/napi-inl.h	/^inline void Promise::Deferred::Reject(napi_value value) const {$/;"	f	class:Napi::Promise::Deferred	typeref:typename:void
+Release	node_modules/node-addon-api/napi-inl.h	/^TypedThreadSafeFunction<ContextType, DataType, CallJs>::Release() {$/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:napi_status
+Release	node_modules/node-addon-api/napi-inl.h	/^inline napi_status ThreadSafeFunction::Release() {$/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:napi_status
+Reset	node_modules/node-addon-api/napi-inl.h	/^inline void Reference<T>::Reset() {$/;"	f	class:Napi::Reference	typeref:typename:void
+Reset	node_modules/node-addon-api/napi-inl.h	/^inline void Reference<T>::Reset(const T& value, uint32_t refcount) {$/;"	f	class:Napi::Reference	typeref:typename:void
+Resolve	node_modules/node-addon-api/napi-inl.h	/^inline void Promise::Deferred::Resolve(napi_value value) const {$/;"	f	class:Napi::Promise::Deferred	typeref:typename:void
+ReturnType	node_modules/node-addon-api/napi-inl.deprecated.h	/^  using ReturnType = decltype(cb(CallbackInfo(nullptr, nullptr)));$/;"	t	function:PropertyDescriptor::Function
+ReturnType	node_modules/node-addon-api/napi-inl.h	/^  using ReturnType = decltype(cb(CallbackInfo(nullptr, nullptr)));$/;"	t	function:Napi::Function::New
+RunScript	node_modules/node-addon-api/napi-inl.h	/^inline Value Env::RunScript(String script) {$/;"	f	class:Napi::Env	typeref:typename:Value
+RunScript	node_modules/node-addon-api/napi-inl.h	/^inline Value Env::RunScript(const char* utf8script) {$/;"	f	class:Napi::Env	typeref:typename:Value
+RunScript	node_modules/node-addon-api/napi-inl.h	/^inline Value Env::RunScript(const std::string& utf8script) {$/;"	f	class:Napi::Env	typeref:typename:Value
+SHELL	node_modules/body-parser/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/compression/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/connect/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/express/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/finalhandler/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/retry/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/send/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SHELL	node_modules/serve-index/node_modules/debug/Makefile	/^SHELL := \/bin\/bash$/;"	m
+SRC_NAPI_H_	node_modules/node-addon-api/napi.h	/^#define SRC_NAPI_H_$/;"	d
+SRC_NAPI_INL_DEPRECATED_H_	node_modules/node-addon-api/napi-inl.deprecated.h	/^#define SRC_NAPI_INL_DEPRECATED_H_$/;"	d
+SRC_NAPI_INL_H_	node_modules/node-addon-api/napi-inl.h	/^#define SRC_NAPI_INL_H_$/;"	d
+Seal	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Seal() {$/;"	f	class:Napi::Object	typeref:typename:bool
+Send	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressQueueWorker<T>::ExecutionProgress::Send(const T* data, size_t count) co/;"	f	class:Napi::AsyncProgressQueueWorker::ExecutionProgress	typeref:typename:void
+Send	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressWorker<T>::ExecutionProgress::Send(const T* data, size_t count) const {$/;"	f	class:Napi::AsyncProgressWorker::ExecutionProgress	typeref:typename:void
+SendProgress_	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressQueueWorker<T>::SendProgress_(const T* data, size_t count) {$/;"	f	class:Napi::AsyncProgressQueueWorker	typeref:typename:void
+SendProgress_	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressWorker<T>::SendProgress_(const T* data, size_t count) {$/;"	f	class:Napi::AsyncProgressWorker	typeref:typename:void
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Set(Value key, const ValueType& value) {$/;"	f	class:Napi::Object	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Set(const char* utf8name, const ValueType& value) {$/;"	f	class:Napi::Object	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Set(const std::string& utf8name, const ValueType& value) {$/;"	f	class:Napi::Object	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Set(napi_value key, const ValueType& value) {$/;"	f	class:Napi::Object	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool Object::Set(uint32_t index, const ValueType& value) {$/;"	f	class:Napi::Object	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(const char* utf8name, Napi::Value value) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(const char* utf8name, bool boolValue) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(const char* utf8name, const char* utf8value) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(const char* utf8name, double numberValue) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(const char* utf8name, napi_value value) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(const std::string& utf8name, bool boolValue) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(const std::string& utf8name,$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(uint32_t index, Napi::Value value) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(uint32_t index, bool boolValue) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(uint32_t index, const char* utf8value) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(uint32_t index, const std::string& utf8value) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(uint32_t index, double numberValue) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+Set	node_modules/node-addon-api/napi-inl.h	/^inline bool ObjectReference::Set(uint32_t index, napi_value value) {$/;"	f	class:Napi::ObjectReference	typeref:typename:bool
+SetData	node_modules/node-addon-api/napi-inl.h	/^inline void CallbackInfo::SetData(void* data) {$/;"	f	class:Napi::CallbackInfo	typeref:typename:void
+SetError	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncWorker::SetError(const std::string& error) {$/;"	f	class:Napi::AsyncWorker	typeref:typename:void
+SetFloat32	node_modules/node-addon-api/napi-inl.h	/^inline void DataView::SetFloat32(size_t byteOffset, float value) const {$/;"	f	class:Napi::DataView	typeref:typename:void
+SetFloat64	node_modules/node-addon-api/napi-inl.h	/^inline void DataView::SetFloat64(size_t byteOffset, double value) const {$/;"	f	class:Napi::DataView	typeref:typename:void
+SetInstanceData	node_modules/node-addon-api/napi-inl.h	/^inline void Env::SetInstanceData(DataType* data, HintType* hint) {$/;"	f	class:Napi::Env	typeref:typename:void
+SetInstanceData	node_modules/node-addon-api/napi-inl.h	/^inline void Env::SetInstanceData(T* data) {$/;"	f	class:Napi::Env	typeref:typename:void
+SetInt16	node_modules/node-addon-api/napi-inl.h	/^inline void DataView::SetInt16(size_t byteOffset, int16_t value) const {$/;"	f	class:Napi::DataView	typeref:typename:void
+SetInt32	node_modules/node-addon-api/napi-inl.h	/^inline void DataView::SetInt32(size_t byteOffset, int32_t value) const {$/;"	f	class:Napi::DataView	typeref:typename:void
+SetInt8	node_modules/node-addon-api/napi-inl.h	/^inline void DataView::SetInt8(size_t byteOffset, int8_t value) const {$/;"	f	class:Napi::DataView	typeref:typename:void
+SetUint16	node_modules/node-addon-api/napi-inl.h	/^inline void DataView::SetUint16(size_t byteOffset, uint16_t value) const {$/;"	f	class:Napi::DataView	typeref:typename:void
+SetUint32	node_modules/node-addon-api/napi-inl.h	/^inline void DataView::SetUint32(size_t byteOffset, uint32_t value) const {$/;"	f	class:Napi::DataView	typeref:typename:void
+SetUint8	node_modules/node-addon-api/napi-inl.h	/^inline void DataView::SetUint8(size_t byteOffset, uint8_t value) const {$/;"	f	class:Napi::DataView	typeref:typename:void
+SetterCallback	node_modules/node-addon-api/napi.h	/^   using SetterCallback = void (*)(const Napi::CallbackInfo& info);$/;"	t	class:Napi::PropertyDescriptor
+SetterTag	node_modules/node-addon-api/napi.h	/^    template <InstanceSetterCallback setter> struct SetterTag {};$/;"	s	class:Napi::InstanceWrap
+SetterWrapper	node_modules/node-addon-api/napi-inl.h	/^  napi_value SetterWrapper(napi_env env, napi_callback_info info) {$/;"	f	struct:Napi::details::AccessorCallbackData	typeref:typename:napi_value
+Signal	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressQueueWorker<T>::ExecutionProgress::Signal() const {$/;"	f	class:Napi::AsyncProgressQueueWorker::ExecutionProgress	typeref:typename:void
+Signal	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressQueueWorker<T>::Signal() const {$/;"	f	class:Napi::AsyncProgressQueueWorker	typeref:typename:void
+Signal	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressWorker<T>::ExecutionProgress::Signal() const {$/;"	f	class:Napi::AsyncProgressWorker::ExecutionProgress	typeref:typename:void
+Signal	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncProgressWorker<T>::Signal() const {$/;"	f	class:Napi::AsyncProgressWorker	typeref:typename:void
+StaticAccessor	node_modules/node-addon-api/napi-inl.h	/^inline ClassPropertyDescriptor<T> ObjectWrap<T>::StaticAccessor($/;"	f	class:Napi::ObjectWrap	typeref:typename:ClassPropertyDescriptor<T>
+StaticAccessorCallbackData	node_modules/node-addon-api/napi.h	/^    using StaticAccessorCallbackData =$/;"	t	class:Napi::ObjectWrap	typeref:typename:AccessorCallbackData<T,StaticGetterCallback,StaticSetterCallback>
+StaticGetterCallback	node_modules/node-addon-api/napi.h	/^    using StaticGetterCallback = Napi::Value (*)(const CallbackInfo& info);$/;"	t	class:Napi::ObjectWrap
+StaticGetterCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^inline napi_value ObjectWrap<T>::StaticGetterCallbackWrapper($/;"	f	class:Napi::ObjectWrap	typeref:typename:napi_value
+StaticMethod	node_modules/node-addon-api/napi-inl.h	/^inline ClassPropertyDescriptor<T> ObjectWrap<T>::StaticMethod($/;"	f	class:Napi::ObjectWrap	typeref:typename:ClassPropertyDescriptor<T>
+StaticMethodCallback	node_modules/node-addon-api/napi.h	/^    using StaticMethodCallback = Napi::Value (*)(const CallbackInfo& info);$/;"	t	class:Napi::ObjectWrap
+StaticMethodCallbackData	node_modules/node-addon-api/napi.h	/^    using StaticMethodCallbackData =$/;"	t	class:Napi::ObjectWrap	typeref:typename:MethodCallbackData<T,StaticMethodCallback>
+StaticMethodCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^inline napi_value ObjectWrap<T>::StaticMethodCallbackWrapper($/;"	f	class:Napi::ObjectWrap	typeref:typename:napi_value
+StaticSetterCallback	node_modules/node-addon-api/napi.h	/^    using StaticSetterCallback = void (*)(const CallbackInfo& info,$/;"	t	class:Napi::ObjectWrap
+StaticSetterCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^inline napi_value ObjectWrap<T>::StaticSetterCallbackWrapper($/;"	f	class:Napi::ObjectWrap	typeref:typename:napi_value
+StaticSetterTag	node_modules/node-addon-api/napi.h	/^    template <StaticSetterCallback setter> struct StaticSetterTag {};$/;"	s	class:Napi::ObjectWrap
+StaticValue	node_modules/node-addon-api/napi-inl.h	/^inline ClassPropertyDescriptor<T> ObjectWrap<T>::StaticValue(Symbol name,$/;"	f	class:Napi::ObjectWrap	typeref:typename:ClassPropertyDescriptor<T>
+StaticValue	node_modules/node-addon-api/napi-inl.h	/^inline ClassPropertyDescriptor<T> ObjectWrap<T>::StaticValue(const char* utf8name,$/;"	f	class:Napi::ObjectWrap	typeref:typename:ClassPropertyDescriptor<T>
+StaticVoidMethodCallback	node_modules/node-addon-api/napi.h	/^    using StaticVoidMethodCallback = void (*)(const CallbackInfo& info);$/;"	t	class:Napi::ObjectWrap
+StaticVoidMethodCallbackData	node_modules/node-addon-api/napi.h	/^    using StaticVoidMethodCallbackData =$/;"	t	class:Napi::ObjectWrap	typeref:typename:MethodCallbackData<T,StaticVoidMethodCallback>
+StaticVoidMethodCallbackWrapper	node_modules/node-addon-api/napi-inl.h	/^inline napi_value ObjectWrap<T>::StaticVoidMethodCallbackWrapper($/;"	f	class:Napi::ObjectWrap	typeref:typename:napi_value
+StrictEquals	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::StrictEquals(const Value& other) const {$/;"	f	class:Napi::Value	typeref:typename:bool
+String	node_modules/node-addon-api/napi-inl.h	/^inline String::String() : Name() {$/;"	f	class:Napi::String
+String	node_modules/node-addon-api/napi-inl.h	/^inline String::String(napi_env env, napi_value value) : Name(env, value) {$/;"	f	class:Napi::String
+String	node_modules/node-addon-api/napi.h	/^  class String : public Name {$/;"	c	namespace:Napi
+SuppressDestruct	node_modules/node-addon-api/napi-inl.h	/^inline void AsyncWorker::SuppressDestruct() {$/;"	f	class:Napi::AsyncWorker	typeref:typename:void
+SuppressDestruct	node_modules/node-addon-api/napi-inl.h	/^inline void Reference<T>::SuppressDestruct() {$/;"	f	class:Napi::Reference	typeref:typename:void
+Symbol	node_modules/node-addon-api/napi-inl.h	/^inline Symbol::Symbol() : Name() {$/;"	f	class:Napi::Symbol
+Symbol	node_modules/node-addon-api/napi-inl.h	/^inline Symbol::Symbol(napi_env env, napi_value value) : Name(env, value) {$/;"	f	class:Napi::Symbol
+Symbol	node_modules/node-addon-api/napi.h	/^  class Symbol : public Name {$/;"	c	namespace:Napi
+TARGET	node_modules/nice-napi/build/nice_napi.target.mk	/^TARGET := nice_napi$/;"	m
+TARGET	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^TARGET := nothing$/;"	m
+THIS_DIR	node_modules/body-parser/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/compression/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/connect/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/custom-event/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/dom-serialize/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/express/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/finalhandler/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/send/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_DIR	node_modules/serve-index/node_modules/debug/Makefile	/^THIS_DIR:=$(shell cd $(dir $(THIS_MAKEFILE_PATH));pwd)$/;"	m
+THIS_MAKEFILE_PATH	node_modules/body-parser/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/compression/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/connect/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/custom-event/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/dom-serialize/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/express/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/finalhandler/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/send/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+THIS_MAKEFILE_PATH	node_modules/serve-index/node_modules/debug/Makefile	/^THIS_MAKEFILE_PATH:=$(word $(words $(MAKEFILE_LIST)),$(MAKEFILE_LIST))$/;"	m
+TOOLSET	node_modules/nice-napi/build/Makefile	/^TOOLSET := target$/;"	m
+TOOLSET	node_modules/nice-napi/build/nice_napi.target.mk	/^$(OBJS): TOOLSET := $(TOOLSET)$/;"	m
+TOOLSET	node_modules/nice-napi/build/nice_napi.target.mk	/^$(builddir)\/nice_napi.node: TOOLSET := $(TOOLSET)$/;"	m
+TOOLSET	node_modules/nice-napi/build/nice_napi.target.mk	/^$(obj).target\/nice_napi.node: TOOLSET := $(TOOLSET)$/;"	m
+TOOLSET	node_modules/nice-napi/build/nice_napi.target.mk	/^TOOLSET := target$/;"	m
+TOOLSET	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(OBJS): TOOLSET := $(TOOLSET)$/;"	m
+TOOLSET	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(builddir)\/nothing.a: TOOLSET := $(TOOLSET)$/;"	m
+TOOLSET	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^$(obj).target\/node_modules\/node-addon-api\/nothing.a: TOOLSET := $(TOOLSET)$/;"	m
+TOOLSET	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^TOOLSET := target$/;"	m
+TemplatedCallback	node_modules/node-addon-api/napi-inl.h	/^TemplatedCallback(napi_env env, napi_callback_info info) NAPI_NOEXCEPT {$/;"	f	namespace:Napi::details	typeref:typename:napi_value
+TemplatedInstanceCallback	node_modules/node-addon-api/napi-inl.h	/^TemplatedInstanceCallback(napi_env env, napi_callback_info info) NAPI_NOEXCEPT {$/;"	f	namespace:Napi::details	typeref:typename:napi_value
+TemplatedInstanceVoidCallback	node_modules/node-addon-api/napi-inl.h	/^TemplatedInstanceVoidCallback(napi_env env,$/;"	f	namespace:Napi::details	typeref:typename:napi_value
+TemplatedVoidCallback	node_modules/node-addon-api/napi-inl.h	/^TemplatedVoidCallback(napi_env env, napi_callback_info info) NAPI_NOEXCEPT {$/;"	f	namespace:Napi::details	typeref:typename:napi_value
+This	node_modules/node-addon-api/napi-inl.h	/^inline Value CallbackInfo::This() const {$/;"	f	class:Napi::CallbackInfo	typeref:typename:Value
+This	node_modules/node-addon-api/napi.h	/^    using This = InstanceWrap<T>;$/;"	t	class:Napi::InstanceWrap	typeref:typename:InstanceWrap<T>
+This	node_modules/node-addon-api/napi.h	/^    using This = ObjectWrap<T>;$/;"	t	class:Napi::ObjectWrap	typeref:typename:ObjectWrap<T>
+ThreadSafeData	node_modules/node-addon-api/napi.h	/^        ThreadSafeData(AsyncProgressWorkerBase* asyncprogressworker, DataType* data)$/;"	f	class:Napi::AsyncProgressWorkerBase::ThreadSafeData
+ThreadSafeData	node_modules/node-addon-api/napi.h	/^     class ThreadSafeData {$/;"	c	class:Napi::AsyncProgressWorkerBase
+ThreadSafeFinalize	node_modules/node-addon-api/napi-inl.h	/^struct ThreadSafeFinalize {$/;"	s	namespace:Napi::details
+ThreadSafeFunction	node_modules/node-addon-api/napi-inl.h	/^inline ThreadSafeFunction::ThreadSafeFunction($/;"	f	class:Napi::ThreadSafeFunction
+ThreadSafeFunction	node_modules/node-addon-api/napi-inl.h	/^inline ThreadSafeFunction::ThreadSafeFunction()$/;"	f	class:Napi::ThreadSafeFunction
+ThreadSafeFunction	node_modules/node-addon-api/napi.h	/^  class ThreadSafeFunction {$/;"	c	namespace:Napi
+ThrowAsJavaScriptException	node_modules/node-addon-api/napi-inl.h	/^inline void Error::ThrowAsJavaScriptException() const {$/;"	f	class:Napi::Error	typeref:typename:void
+ToBoolean	node_modules/node-addon-api/napi-inl.h	/^inline Boolean Value::ToBoolean() const {$/;"	f	class:Napi::Value	typeref:typename:Boolean
+ToNumber	node_modules/node-addon-api/napi-inl.h	/^inline Number Value::ToNumber() const {$/;"	f	class:Napi::Value	typeref:typename:Number
+ToObject	node_modules/node-addon-api/napi-inl.h	/^inline Object Value::ToObject() const {$/;"	f	class:Napi::Value	typeref:typename:Object
+ToString	node_modules/node-addon-api/napi-inl.h	/^inline String Value::ToString() const {$/;"	f	class:Napi::Value	typeref:typename:String
+ToWords	node_modules/node-addon-api/napi-inl.h	/^inline void BigInt::ToWords(int* sign_bit, size_t* word_count, uint64_t* words) {$/;"	f	class:Napi::BigInt	typeref:typename:void
+Type	node_modules/node-addon-api/napi-inl.h	/^inline napi_valuetype Value::Type() const {$/;"	f	class:Napi::Value	typeref:typename:napi_valuetype
+TypeError	node_modules/node-addon-api/napi-inl.h	/^inline TypeError::TypeError() : Error() {$/;"	f	class:Napi::TypeError
+TypeError	node_modules/node-addon-api/napi-inl.h	/^inline TypeError::TypeError(napi_env env, napi_value value) : Error(env, value) {$/;"	f	class:Napi::TypeError
+TypeError	node_modules/node-addon-api/napi.h	/^  class TypeError : public Error {$/;"	c	namespace:Napi
+TypedArray	node_modules/node-addon-api/napi-inl.h	/^inline TypedArray::TypedArray()$/;"	f	class:Napi::TypedArray
+TypedArray	node_modules/node-addon-api/napi-inl.h	/^inline TypedArray::TypedArray(napi_env env, napi_value value)$/;"	f	class:Napi::TypedArray
+TypedArray	node_modules/node-addon-api/napi-inl.h	/^inline TypedArray::TypedArray(napi_env env,$/;"	f	class:Napi::TypedArray
+TypedArray	node_modules/node-addon-api/napi.h	/^  class TypedArray : public Object {$/;"	c	namespace:Napi
+TypedArrayOf	node_modules/node-addon-api/napi-inl.h	/^inline TypedArrayOf<T>::TypedArrayOf() : TypedArray(), _data(nullptr) {$/;"	f	class:Napi::TypedArrayOf
+TypedArrayOf	node_modules/node-addon-api/napi-inl.h	/^inline TypedArrayOf<T>::TypedArrayOf(napi_env env, napi_value value)$/;"	f	class:Napi::TypedArrayOf
+TypedArrayOf	node_modules/node-addon-api/napi-inl.h	/^inline TypedArrayOf<T>::TypedArrayOf(napi_env env,$/;"	f	class:Napi::TypedArrayOf
+TypedArrayOf	node_modules/node-addon-api/napi.h	/^  class TypedArrayOf : public TypedArray {$/;"	c	namespace:Napi
+TypedArrayType	node_modules/node-addon-api/napi-inl.h	/^inline napi_typedarray_type TypedArray::TypedArrayType() const {$/;"	f	class:Napi::TypedArray	typeref:typename:napi_typedarray_type
+TypedArrayTypeForPrimitiveType	node_modules/node-addon-api/napi.h	/^    napi_typedarray_type TypedArrayTypeForPrimitiveType() {$/;"	f	class:Napi::TypedArray	typeref:typename:napi_typedarray_type
+TypedThreadSafeFunction	node_modules/node-addon-api/napi-inl.h	/^    TypedThreadSafeFunction()$/;"	f	class:Napi::TypedThreadSafeFunction
+TypedThreadSafeFunction	node_modules/node-addon-api/napi-inl.h	/^    TypedThreadSafeFunction(napi_threadsafe_function tsfn)$/;"	f	class:Napi::TypedThreadSafeFunction
+TypedThreadSafeFunction	node_modules/node-addon-api/napi.h	/^  class TypedThreadSafeFunction {$/;"	c	namespace:Napi
+Uint16Array	node_modules/node-addon-api/napi.h	/^  using Uint16Array =$/;"	t	namespace:Napi	typeref:typename:TypedArrayOf<uint16_t>
+Uint32Array	node_modules/node-addon-api/napi.h	/^  using Uint32Array =$/;"	t	namespace:Napi	typeref:typename:TypedArrayOf<uint32_t>
+Uint32Value	node_modules/node-addon-api/napi-inl.h	/^inline uint32_t Number::Uint32Value() const {$/;"	f	class:Napi::Number	typeref:typename:uint32_t
+Uint64Value	node_modules/node-addon-api/napi-inl.h	/^inline uint64_t BigInt::Uint64Value(bool* lossless) const {$/;"	f	class:Napi::BigInt	typeref:typename:uint64_t
+Uint8Array	node_modules/node-addon-api/napi.h	/^  using Uint8Array =$/;"	t	namespace:Napi	typeref:typename:TypedArrayOf<uint8_t>
+Undefined	node_modules/node-addon-api/napi-inl.h	/^inline Value Env::Undefined() const {$/;"	f	class:Napi::Env	typeref:typename:Value
+Unref	node_modules/node-addon-api/napi-inl.h	/^inline uint32_t Reference<T>::Unref() {$/;"	f	class:Napi::Reference	typeref:typename:uint32_t
+Unref	node_modules/node-addon-api/napi-inl.h	/^inline void ThreadSafeFunction::Unref(napi_env env) const {$/;"	f	class:Napi::ThreadSafeFunction	typeref:typename:void
+Unref	node_modules/node-addon-api/napi-inl.h	/^inline void TypedThreadSafeFunction<ContextType, DataType, CallJs>::Unref($/;"	f	class:Napi::TypedThreadSafeFunction	typeref:typename:void
+Unwrap	node_modules/node-addon-api/napi-inl.h	/^inline T* Addon<T>::Unwrap(Object wrapper) {$/;"	f	class:Napi::Addon	typeref:typename:T *
+Unwrap	node_modules/node-addon-api/napi-inl.h	/^inline T* ObjectWrap<T>::Unwrap(Object wrapper) {$/;"	f	class:Napi::ObjectWrap	typeref:typename:T *
+Utf16Value	node_modules/node-addon-api/napi-inl.h	/^inline std::u16string String::Utf16Value() const {$/;"	f	class:Napi::String	typeref:typename:std::u16string
+Utf8Value	node_modules/node-addon-api/napi-inl.h	/^inline std::string String::Utf8Value() const {$/;"	f	class:Napi::String	typeref:typename:std::string
+Value	node_modules/node-addon-api/napi-inl.h	/^inline PropertyDescriptor PropertyDescriptor::Value(Name name,$/;"	f	class:Napi::PropertyDescriptor	typeref:typename:PropertyDescriptor
+Value	node_modules/node-addon-api/napi-inl.h	/^inline PropertyDescriptor PropertyDescriptor::Value(const char* utf8name,$/;"	f	class:Napi::PropertyDescriptor	typeref:typename:PropertyDescriptor
+Value	node_modules/node-addon-api/napi-inl.h	/^inline PropertyDescriptor PropertyDescriptor::Value(const std::string& utf8name,$/;"	f	class:Napi::PropertyDescriptor	typeref:typename:PropertyDescriptor
+Value	node_modules/node-addon-api/napi-inl.h	/^inline PropertyDescriptor PropertyDescriptor::Value(napi_value name,$/;"	f	class:Napi::PropertyDescriptor	typeref:typename:PropertyDescriptor
+Value	node_modules/node-addon-api/napi-inl.h	/^inline T Reference<T>::Value() const {$/;"	f	class:Napi::Reference	typeref:typename:T
+Value	node_modules/node-addon-api/napi-inl.h	/^inline Value::Value() : _env(nullptr), _value(nullptr) {$/;"	f	class:Napi::Value
+Value	node_modules/node-addon-api/napi-inl.h	/^inline Value::Value(napi_env env, napi_value value) : _env(env), _value(value) {$/;"	f	class:Napi::Value
+Value	node_modules/node-addon-api/napi-inl.h	/^inline bool Boolean::Value() const {$/;"	f	class:Napi::Boolean	typeref:typename:bool
+Value	node_modules/node-addon-api/napi.h	/^  class Value {$/;"	c	namespace:Napi
+ValueOf	node_modules/node-addon-api/napi-inl.h	/^inline double Date::ValueOf() const {$/;"	f	class:Napi::Date	typeref:typename:double
+VersionManagement	node_modules/node-addon-api/napi.h	/^  class VersionManagement {$/;"	c	namespace:Napi
+VoidCallback	node_modules/node-addon-api/napi.h	/^   using VoidCallback = void (*)(const CallbackInfo& info);$/;"	t	class:Napi::Function
+WIN32_LEAN_AND_MEAN	node_modules/node-gyp/src/win_delay_load_hook.cc	/^#define WIN32_LEAN_AND_MEAN$/;"	d	file:
+Weak	node_modules/node-addon-api/napi-inl.h	/^inline FunctionReference Weak(Function value) {$/;"	f	namespace:Napi	typeref:typename:FunctionReference
+Weak	node_modules/node-addon-api/napi-inl.h	/^inline ObjectReference Weak(Object value) {$/;"	f	namespace:Napi	typeref:typename:ObjectReference
+Weak	node_modules/node-addon-api/napi-inl.h	/^inline Reference<T> Weak(T value) {$/;"	f	namespace:Napi	typeref:typename:Reference<T>
+WellKnown	node_modules/node-addon-api/napi-inl.h	/^inline Symbol Symbol::WellKnown(napi_env env, const std::string& name) {$/;"	f	class:Napi::Symbol	typeref:typename:Symbol
+WordCount	node_modules/node-addon-api/napi-inl.h	/^inline size_t BigInt::WordCount() const {$/;"	f	class:Napi::BigInt	typeref:typename:size_t
+WrapCallback	node_modules/node-addon-api/napi-inl.h	/^inline napi_value WrapCallback(Callable callback) {$/;"	f	namespace:Napi::details	typeref:typename:napi_value
+WrapSetter	node_modules/node-addon-api/napi.h	/^    static napi_callback WrapSetter(SetterTag<nullptr>) NAPI_NOEXCEPT {$/;"	f	class:Napi::InstanceWrap	typeref:typename:napi_callback
+WrapSetter	node_modules/node-addon-api/napi.h	/^    static napi_callback WrapSetter(SetterTag<setter>) NAPI_NOEXCEPT {$/;"	f	class:Napi::InstanceWrap	typeref:typename:napi_callback
+WrapStaticSetter	node_modules/node-addon-api/napi.h	/^    static napi_callback WrapStaticSetter(StaticSetterTag<nullptr>)$/;"	f	class:Napi::ObjectWrap	typeref:typename:napi_callback
+WrapStaticSetter	node_modules/node-addon-api/napi.h	/^    static napi_callback WrapStaticSetter(StaticSetterTag<setter>)$/;"	f	class:Napi::ObjectWrap	typeref:typename:napi_callback
+WrapVoidCallback	node_modules/node-addon-api/napi-inl.h	/^inline void WrapVoidCallback(Callable callback) {$/;"	f	namespace:Napi::details	typeref:typename:void
+WrappedMethod	node_modules/node-addon-api/napi-inl.h	/^inline napi_value InstanceWrap<T>::WrappedMethod($/;"	f	class:Napi::InstanceWrap	typeref:typename:napi_value
+WrappedMethod	node_modules/node-addon-api/napi-inl.h	/^inline napi_value ObjectWrap<T>::WrappedMethod($/;"	f	class:Napi::ObjectWrap	typeref:typename:napi_value
+Wrapper	node_modules/node-addon-api/napi-inl.h	/^  napi_value Wrapper(napi_env env, napi_callback_info info) {$/;"	f	struct:Napi::details::CallbackData	typeref:typename:napi_value
+Wrapper	node_modules/node-addon-api/napi-inl.h	/^  static inline void Wrapper(napi_env env,$/;"	f	struct:Napi::details::FinalizeData	typeref:typename:void
+Wrapper	node_modules/node-addon-api/napi-inl.h	/^  void Wrapper(napi_env env, void* rawFinalizeData, void* \/* rawContext *\/) {$/;"	f	struct:Napi::details::ThreadSafeFinalize	typeref:typename:void
+WrapperWithHint	node_modules/node-addon-api/napi-inl.h	/^  static inline void WrapperWithHint(napi_env env,$/;"	f	struct:Napi::details::FinalizeData	typeref:typename:void
+WriteData	node_modules/node-addon-api/napi-inl.h	/^inline void DataView::WriteData(size_t byteOffset, T value) const {$/;"	f	class:Napi::DataView	typeref:typename:void
+YARN	node_modules/body-parser/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/compression/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/connect/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/express/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/finalhandler/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/send/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+YARN	node_modules/serve-index/node_modules/debug/Makefile	/^YARN ?= $(shell which yarn)$/;"	m
+ZUUL	node_modules/custom-event/Makefile	/^ZUUL ?= $(NODE) $(BIN)\/zuul$/;"	m
+ZUUL	node_modules/dom-serialize/Makefile	/^ZUUL ?= $(NODE) $(BIN)\/zuul$/;"	m
+__anonceeba82f0102	node_modules/node-addon-api/napi-inl.h	/^    finalizer = [](napi_env \/*env*\/, void* data, void* \/*hint*\/) {$/;"	f	function:Napi::details::AttachData	file:
+__anonceeba82f0202	node_modules/node-addon-api/napi-inl.h	/^    return details::WrapCallback([&] {$/;"	f	function:Napi::details::CallbackData::Wrapper	file:
+__anonceeba82f0302	node_modules/node-addon-api/napi-inl.h	/^    return details::WrapCallback([&] {$/;"	f	function:Napi::details::CallbackData::Wrapper	file:
+__anonceeba82f0402	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::details::TemplatedVoidCallback	file:
+__anonceeba82f0502	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::details::TemplatedCallback	file:
+__anonceeba82f0602	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::details::TemplatedInstanceCallback	file:
+__anonceeba82f0702	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::details::TemplatedInstanceVoidCallback	file:
+__anonceeba82f0802	node_modules/node-addon-api/napi-inl.h	/^    WrapVoidCallback([&] {$/;"	f	function:Napi::details::FinalizeData::Wrapper	file:
+__anonceeba82f0902	node_modules/node-addon-api/napi-inl.h	/^    WrapVoidCallback([&] {$/;"	f	function:Napi::details::FinalizeData::WrapperWithHint	file:
+__anonceeba82f0a02	node_modules/node-addon-api/napi-inl.h	/^    return details::WrapCallback([&] {$/;"	f	function:Napi::details::AccessorCallbackData::GetterWrapper	file:
+__anonceeba82f0b02	node_modules/node-addon-api/napi-inl.h	/^    return details::WrapCallback([&] {$/;"	f	function:Napi::details::AccessorCallbackData::SetterWrapper	file:
+__anonceeba82f0c02	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::RegisterModule	file:
+__anonceeba82f0d02	node_modules/node-addon-api/napi-inl.h	/^    napi_set_instance_data(_env, data, [](napi_env env, void* data, void*) {$/;"	f	function:Napi::Env::SetInstanceData	file:
+__anonceeba82f0e02	node_modules/node-addon-api/napi-inl.h	/^      [](napi_env env, void* data, void* hint) {$/;"	f	function:Napi::Env::SetInstanceData	file:
+__anonceeba82f0f02	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::InstanceWrap::InstanceVoidMethodCallbackWrapper	file:
+__anonceeba82f1002	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::InstanceWrap::InstanceMethodCallbackWrapper	file:
+__anonceeba82f1102	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::InstanceWrap::InstanceGetterCallbackWrapper	file:
+__anonceeba82f1202	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::InstanceWrap::InstanceSetterCallbackWrapper	file:
+__anonceeba82f1302	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::InstanceWrap::WrappedMethod	file:
+__anonceeba82f1402	node_modules/node-addon-api/napi-inl.h	/^  napi_value wrapper = details::WrapCallback([&] {$/;"	f	function:Napi::ObjectWrap::ConstructorCallbackWrapper	file:
+__anonceeba82f1502	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::ObjectWrap::StaticVoidMethodCallbackWrapper	file:
+__anonceeba82f1602	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::ObjectWrap::StaticMethodCallbackWrapper	file:
+__anonceeba82f1702	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::ObjectWrap::StaticGetterCallbackWrapper	file:
+__anonceeba82f1802	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::ObjectWrap::StaticSetterCallbackWrapper	file:
+__anonceeba82f1902	node_modules/node-addon-api/napi-inl.h	/^  return details::WrapCallback([&] {$/;"	f	function:Napi::ObjectWrap::WrappedMethod	file:
+__anonceeba82f1a02	node_modules/node-addon-api/napi-inl.h	/^    details::WrapCallback([&] {$/;"	f	function:Napi::AsyncWorker::OnWorkComplete	file:
+__anonceeba82f1b02	node_modules/node-addon-api/napi-inl.h	/^  return Napi::Function::New(env, [](const CallbackInfo& cb) {});$/;"	f	function:Napi::TypedThreadSafeFunction::EmptyFunctionFactory	file:
+__anonceeba82f1c02	node_modules/node-addon-api/napi-inl.h	/^             [](Env, ContextType*) {} \/* empty finalizer *\/);$/;"	f	function:Napi::ThreadSafeFunction::New	file:
+__anonceeba82f1d02	node_modules/node-addon-api/napi-inl.h	/^  auto wrapper = [data, callback](Env env, Function jsCallback) {$/;"	f	function:Napi::ThreadSafeFunction::BlockingCall	file:
+__anonceeba82f1e02	node_modules/node-addon-api/napi-inl.h	/^  auto wrapper = [data, callback](Env env, Function jsCallback) {$/;"	f	function:Napi::ThreadSafeFunction::NonBlockingCall	file:
+__pfnDliNotifyHook2	node_modules/node-gyp/src/win_delay_load_hook.cc	/^decltype(__pfnDliNotifyHook2) __pfnDliNotifyHook2 = load_exe_hook;$/;"	v	typeref:typename:decltype(__pfnDliNotifyHook2)
+_argc	node_modules/node-addon-api/napi.h	/^    size_t _argc;$/;"	m	class:Napi::CallbackInfo	typeref:typename:size_t
+_argv	node_modules/node-addon-api/napi.h	/^    napi_value* _argv;$/;"	m	class:Napi::CallbackInfo	typeref:typename:napi_value *
+_asyncdata	node_modules/node-addon-api/napi.h	/^     T* _asyncdata;$/;"	m	class:Napi::AsyncProgressWorker	typeref:typename:T *
+_asyncprogressworker	node_modules/node-addon-api/napi.h	/^        AsyncProgressWorkerBase* _asyncprogressworker;$/;"	m	class:Napi::AsyncProgressWorkerBase::ThreadSafeData	typeref:typename:AsyncProgressWorkerBase *
+_asyncsize	node_modules/node-addon-api/napi.h	/^     size_t _asyncsize;$/;"	m	class:Napi::AsyncProgressWorker	typeref:typename:size_t
+_callback	node_modules/node-addon-api/napi.h	/^    FunctionReference _callback;$/;"	m	class:Napi::AsyncWorker	typeref:typename:FunctionReference
+_complete_status	node_modules/node-addon-api/napi.h	/^     napi_status _complete_status;$/;"	m	class:Napi::AsyncProgressWorkerBase	typeref:typename:napi_status
+_construction_failed	node_modules/node-addon-api/napi.h	/^    bool _construction_failed = true;$/;"	m	class:Napi::ObjectWrap	typeref:typename:bool
+_context	node_modules/node-addon-api/napi.h	/^    napi_async_context _context;$/;"	m	class:Napi::AsyncContext	typeref:typename:napi_async_context
+_data	node_modules/node-addon-api/napi.h	/^        DataType* _data;$/;"	m	class:Napi::AsyncProgressWorkerBase::ThreadSafeData	typeref:typename:DataType *
+_data	node_modules/node-addon-api/napi.h	/^    T* _data;$/;"	m	class:Napi::TypedArrayOf	typeref:typename:T *
+_data	node_modules/node-addon-api/napi.h	/^    mutable T* _data;$/;"	m	class:Napi::Buffer	typeref:typename:T *
+_data	node_modules/node-addon-api/napi.h	/^    void* _data;$/;"	m	class:Napi::CallbackInfo	typeref:typename:void *
+_data	node_modules/node-addon-api/napi.h	/^    void* _data;$/;"	m	class:Napi::DataView	typeref:typename:void *
+_deferred	node_modules/node-addon-api/napi.h	/^      napi_deferred _deferred;$/;"	m	class:Napi::Promise::Deferred	typeref:typename:napi_deferred
+_desc	node_modules/node-addon-api/napi.h	/^    napi_property_descriptor _desc;$/;"	m	class:Napi::ClassPropertyDescriptor	typeref:typename:napi_property_descriptor
+_desc	node_modules/node-addon-api/napi.h	/^    napi_property_descriptor _desc;$/;"	m	class:Napi::PropertyDescriptor	typeref:typename:napi_property_descriptor
+_dynamicArgs	node_modules/node-addon-api/napi.h	/^    napi_value* _dynamicArgs;$/;"	m	class:Napi::CallbackInfo	typeref:typename:napi_value *
+_env	node_modules/node-addon-api/napi.h	/^      napi_env _env;$/;"	m	class:Napi::Object::PropertyLValue	typeref:typename:napi_env
+_env	node_modules/node-addon-api/napi.h	/^      napi_env _env;$/;"	m	class:Napi::Promise::Deferred	typeref:typename:napi_env
+_env	node_modules/node-addon-api/napi.h	/^    napi_env _env;$/;"	m	class:Napi::AsyncContext	typeref:typename:napi_env
+_env	node_modules/node-addon-api/napi.h	/^    napi_env _env;$/;"	m	class:Napi::AsyncWorker	typeref:typename:napi_env
+_env	node_modules/node-addon-api/napi.h	/^    napi_env _env;$/;"	m	class:Napi::CallbackInfo	typeref:typename:napi_env
+_env	node_modules/node-addon-api/napi.h	/^    napi_env _env;$/;"	m	class:Napi::CallbackScope	typeref:typename:napi_env
+_env	node_modules/node-addon-api/napi.h	/^    napi_env _env;$/;"	m	class:Napi::Env	typeref:typename:napi_env
+_env	node_modules/node-addon-api/napi.h	/^    napi_env _env;$/;"	m	class:Napi::EscapableHandleScope	typeref:typename:napi_env
+_env	node_modules/node-addon-api/napi.h	/^    napi_env _env;$/;"	m	class:Napi::HandleScope	typeref:typename:napi_env
+_env	node_modules/node-addon-api/napi.h	/^    napi_env _env;$/;"	m	class:Napi::Reference	typeref:typename:napi_env
+_env	node_modules/node-addon-api/napi.h	/^    napi_env _env;$/;"	m	class:Napi::Value	typeref:typename:napi_env
+_error	node_modules/node-addon-api/napi.h	/^    std::string _error;$/;"	m	class:Napi::AsyncWorker	typeref:typename:std::string
+_info	node_modules/node-addon-api/napi.h	/^    napi_callback_info _info;$/;"	m	class:Napi::CallbackInfo	typeref:typename:napi_callback_info
+_key	node_modules/node-addon-api/napi.h	/^      Key _key;$/;"	m	class:Napi::Object::PropertyLValue	typeref:typename:Key
+_length	node_modules/node-addon-api/napi.h	/^    mutable size_t _length;$/;"	m	class:Napi::Buffer	typeref:typename:size_t
+_length	node_modules/node-addon-api/napi.h	/^    size_t _length;$/;"	m	class:Napi::DataView	typeref:typename:size_t
+_length	node_modules/node-addon-api/napi.h	/^    size_t _length;$/;"	m	class:Napi::TypedArray	typeref:typename:size_t
+_message	node_modules/node-addon-api/napi.h	/^    mutable std::string _message;$/;"	m	class:Napi::Error	typeref:typename:std::string
+_mutex	node_modules/node-addon-api/napi.h	/^     std::mutex _mutex;$/;"	m	class:Napi::AsyncProgressWorker	typeref:typename:std::mutex
+_object	node_modules/node-addon-api/napi.h	/^      napi_value _object;$/;"	m	class:Napi::Object::PropertyLValue	typeref:typename:napi_value
+_promise	node_modules/node-addon-api/napi.h	/^      napi_value _promise;$/;"	m	class:Napi::Promise::Deferred	typeref:typename:napi_value
+_receiver	node_modules/node-addon-api/napi.h	/^    ObjectReference _receiver;$/;"	m	class:Napi::AsyncWorker	typeref:typename:ObjectReference
+_ref	node_modules/node-addon-api/napi.h	/^    napi_ref _ref;$/;"	m	class:Napi::Reference	typeref:typename:napi_ref
+_scope	node_modules/node-addon-api/napi.h	/^    napi_callback_scope _scope;$/;"	m	class:Napi::CallbackScope	typeref:typename:napi_callback_scope
+_scope	node_modules/node-addon-api/napi.h	/^    napi_escapable_handle_scope _scope;$/;"	m	class:Napi::EscapableHandleScope	typeref:typename:napi_escapable_handle_scope
+_scope	node_modules/node-addon-api/napi.h	/^    napi_handle_scope _scope;$/;"	m	class:Napi::HandleScope	typeref:typename:napi_handle_scope
+_staticArgCount	node_modules/node-addon-api/napi.h	/^    const size_t _staticArgCount = 6;$/;"	m	class:Napi::CallbackInfo	typeref:typename:const size_t
+_staticArgs	node_modules/node-addon-api/napi.h	/^    napi_value _staticArgs[6];$/;"	m	class:Napi::CallbackInfo	typeref:typename:napi_value[6]
+_suppressDestruct	node_modules/node-addon-api/napi.h	/^    bool _suppressDestruct;$/;"	m	class:Napi::Reference	typeref:typename:bool
+_suppress_destruct	node_modules/node-addon-api/napi.h	/^    bool _suppress_destruct;$/;"	m	class:Napi::AsyncWorker	typeref:typename:bool
+_this	node_modules/node-addon-api/napi.h	/^    napi_value _this;$/;"	m	class:Napi::CallbackInfo	typeref:typename:napi_value
+_tsfn	node_modules/node-addon-api/napi.h	/^     ThreadSafeFunction _tsfn;$/;"	m	class:Napi::AsyncProgressWorkerBase	typeref:typename:ThreadSafeFunction
+_tsfn	node_modules/node-addon-api/napi.h	/^    napi_threadsafe_function _tsfn;$/;"	m	class:Napi::ThreadSafeFunction	typeref:typename:napi_threadsafe_function
+_tsfn	node_modules/node-addon-api/napi.h	/^    napi_threadsafe_function _tsfn;$/;"	m	class:Napi::TypedThreadSafeFunction	typeref:typename:napi_threadsafe_function
+_type	node_modules/node-addon-api/napi.h	/^    napi_typedarray_type _type;$/;"	m	class:Napi::TypedArray	typeref:typename:napi_typedarray_type
+_value	node_modules/node-addon-api/napi.h	/^    napi_value _value;$/;"	m	class:Napi::Value	typeref:typename:napi_value
+_work	node_modules/node-addon-api/napi.h	/^    napi_async_work _work;$/;"	m	class:Napi::AsyncWorker	typeref:typename:napi_async_work
+_work_completed	node_modules/node-addon-api/napi.h	/^     bool _work_completed = false;$/;"	m	class:Napi::AsyncProgressWorkerBase	typeref:typename:bool
+_worker	node_modules/node-addon-api/napi.h	/^        AsyncProgressQueueWorker* const _worker;$/;"	m	class:Napi::AsyncProgressQueueWorker::ExecutionProgress	typeref:typename:AsyncProgressQueueWorker * const
+_worker	node_modules/node-addon-api/napi.h	/^        AsyncProgressWorker* const _worker;$/;"	m	class:Napi::AsyncProgressWorker::ExecutionProgress	typeref:typename:AsyncProgressWorker * const
+abs_builddir	node_modules/nice-napi/build/Makefile	/^abs_builddir := $(abspath $(builddir))$/;"	m
+abs_obj	node_modules/nice-napi/build/Makefile	/^abs_obj := $(abspath $(obj))$/;"	m
+abs_srcdir	node_modules/nice-napi/build/Makefile	/^abs_srcdir := $(abspath $(srcdir))$/;"	m
+all	node_modules/nice-napi/build/Makefile	/^all:$/;"	t
+all	node_modules/nice-napi/build/nice_napi.target.mk	/^all: $(builddir)\/nice_napi.node$/;"	t
+all	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^all: $(builddir)\/nothing.a$/;"	t
+all	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^all: nothing$/;"	t
+all_deps	node_modules/nice-napi/build/Makefile	/^all_deps :=$/;"	m
+asyncprogressworker	node_modules/node-addon-api/napi.h	/^        AsyncProgressWorkerBase* asyncprogressworker() { return _asyncprogressworker; };$/;"	f	class:Napi::AsyncProgressWorkerBase::ThreadSafeData	typeref:typename:AsyncProgressWorkerBase *
+builddir	node_modules/nice-napi/build/Makefile	/^builddir ?= $(builddir_name)\/$(BUILDTYPE)$/;"	m
+builddir_name	node_modules/nice-napi/build/Makefile	/^builddir_name ?= .$/;"	m
+callback	node_modules/node-addon-api/napi-inl.h	/^  Callable callback;$/;"	m	struct:Napi::details::CallbackData	typeref:typename:Callable
+callback	node_modules/node-addon-api/napi-inl.h	/^  Finalizer callback;$/;"	m	struct:Napi::details::FinalizeData	typeref:typename:Finalizer
+callback	node_modules/node-addon-api/napi-inl.h	/^  Finalizer callback;$/;"	m	struct:Napi::details::ThreadSafeFinalize	typeref:typename:Finalizer
+callback	node_modules/node-addon-api/napi.h	/^    TCallback callback;$/;"	m	struct:Napi::MethodCallbackData	typeref:typename:TCallback
+can_make_string	node_modules/node-addon-api/napi-inl.h	/^struct can_make_string$/;"	s	namespace:Napi::details
+cmd_alink	node_modules/nice-napi/build/Makefile	/^cmd_alink = rm -f $@ && $(AR.$(TOOLSET)) crs $@ $(filter %.o,$^)$/;"	m
+cmd_alink_thin	node_modules/nice-napi/build/Makefile	/^cmd_alink_thin = rm -f $@ && $(AR.$(TOOLSET)) crsT $@ $(filter %.o,$^)$/;"	m
+cmd_cc	node_modules/nice-napi/build/Makefile	/^cmd_cc = $(CC.$(TOOLSET)) $(GYP_CFLAGS) $(DEPFLAGS) $(CFLAGS.$(TOOLSET)) -c -o $@ $<$/;"	m
+cmd_copy	node_modules/nice-napi/build/Makefile	/^cmd_copy = rm -rf "$@" && cp -af "$<" "$@"$/;"	m
+cmd_cxx	node_modules/nice-napi/build/Makefile	/^cmd_cxx = $(CXX.$(TOOLSET)) $(GYP_CXXFLAGS) $(DEPFLAGS) $(CXXFLAGS.$(TOOLSET)) -c -o $@ $<$/;"	m
+cmd_link	node_modules/nice-napi/build/Makefile	/^cmd_link = $(LINK.$(TOOLSET)) $(GYP_LDFLAGS) $(LDFLAGS.$(TOOLSET)) -o $@ -Wl,--start-group $(LD_/;"	m
+cmd_regen_makefile	node_modules/nice-napi/build/Makefile	/^cmd_regen_makefile = cd $(srcdir); \/home\/addaleax\/src\/nice-napi\/node_modules\/node-gyp\/gyp/;"	m
+cmd_solink	node_modules/nice-napi/build/Makefile	/^cmd_solink = $(LINK.$(TOOLSET)) -shared $(GYP_LDFLAGS) $(LDFLAGS.$(TOOLSET)) -Wl,-soname=$(@F) -/;"	m
+cmd_solink_module	node_modules/nice-napi/build/Makefile	/^cmd_solink_module = $(LINK.$(TOOLSET)) -shared $(GYP_LDFLAGS) $(LDFLAGS.$(TOOLSET)) -Wl,-soname=/;"	m
+cmd_touch	node_modules/nice-napi/build/Makefile	/^cmd_touch = touch $@$/;"	m
+command_changed	node_modules/nice-napi/build/Makefile	/^command_changed = $(or $(subst $(cmd_$(1)),,$(cmd_$(call replace_spaces,$@))),\\$/;"	m
+context	node_modules/node-addon-api/napi.h	/^      void* context;$/;"	m	struct:Napi::ThreadSafeFunction::ConvertibleContext	typeref:typename:void *
+coveralls	node_modules/body-parser/node_modules/debug/Makefile	/^coveralls:$/;"	t
+coveralls	node_modules/compression/node_modules/debug/Makefile	/^coveralls:$/;"	t
+coveralls	node_modules/connect/node_modules/debug/Makefile	/^coveralls:$/;"	t
+coveralls	node_modules/express/node_modules/debug/Makefile	/^coveralls:$/;"	t
+coveralls	node_modules/finalhandler/node_modules/debug/Makefile	/^coveralls:$/;"	t
+coveralls	node_modules/send/node_modules/debug/Makefile	/^coveralls:$/;"	t
+coveralls	node_modules/serve-index/node_modules/debug/Makefile	/^coveralls:$/;"	t
+create_error_fn	node_modules/node-addon-api/napi.h	/^   using create_error_fn = napi_status (*)(napi_env envb,$/;"	t	class:Napi::Error
+d_files	node_modules/nice-napi/build/Makefile	/^d_files := $(wildcard $(foreach f,$(all_deps),$(depsdir)\/$(f).d))$/;"	m
+data	node_modules/node-addon-api/napi-inl.h	/^  FinalizerDataType* data;$/;"	m	struct:Napi::details::ThreadSafeFinalize	typeref:typename:FinalizerDataType *
+data	node_modules/node-addon-api/napi-inl.h	/^  void* data;$/;"	m	struct:Napi::details::AccessorCallbackData	typeref:typename:void *
+data	node_modules/node-addon-api/napi-inl.h	/^  void* data;$/;"	m	struct:Napi::details::CallbackData	typeref:typename:void *
+data	node_modules/node-addon-api/napi.h	/^        DataType* data() { return _data; };$/;"	f	class:Napi::AsyncProgressWorkerBase::ThreadSafeData	typeref:typename:DataType *
+data	node_modules/node-addon-api/napi.h	/^    void* data;$/;"	m	struct:Napi::AccessorCallbackData	typeref:typename:void *
+data	node_modules/node-addon-api/napi.h	/^    void* data;$/;"	m	struct:Napi::MethodCallbackData	typeref:typename:void *
+depfile	node_modules/nice-napi/build/Makefile	/^depfile = $(depsdir)\/$(call replace_spaces,$@).d$/;"	m
+depsdir	node_modules/nice-napi/build/Makefile	/^depsdir := $(builddir)\/.deps$/;"	m
+details	node_modules/node-addon-api/napi-inl.h	/^namespace details {$/;"	n	namespace:Napi
+dirx	node_modules/nice-napi/build/Makefile	/^dirx = $(call unreplace_spaces,$(dir $(call replace_spaces,$1)))$/;"	m
+disjunction	node_modules/node-addon-api/napi-inl.h	/^struct disjunction<B, Bs...>$/;"	s	namespace:Napi::details
+disjunction	node_modules/node-addon-api/napi-inl.h	/^template <typename B> struct disjunction<B> : B {};$/;"	s	namespace:Napi::details
+disjunction	node_modules/node-addon-api/napi-inl.h	/^template <typename...> struct disjunction : std::false_type {};$/;"	s	namespace:Napi::details
+do_cmd	node_modules/nice-napi/build/Makefile	/^define do_cmd$/;"	m
+do_postbuilds	node_modules/nice-napi/build/Makefile	/^define do_postbuilds$/;"	m
+empty	node_modules/nice-napi/build/Makefile	/^empty :=$/;"	m
+entry_point_	node_modules/node-addon-api/napi.h	/^    Object entry_point_;$/;"	m	class:Napi::Addon	typeref:typename:Object
+escape_quotes	node_modules/nice-napi/build/Makefile	/^escape_quotes = $(subst ','\\'',$(1))$/;"	m
+escape_vars	node_modules/nice-napi/build/Makefile	/^escape_vars = $(subst $$,$$$$,$(1))$/;"	m
+exact_echo	node_modules/nice-napi/build/Makefile	/^exact_echo = printf '%s\\n' '$(call escape_quotes,$(1))'$/;"	m
+fixup_dep	node_modules/nice-napi/build/Makefile	/^define fixup_dep$/;"	m
+getterCallback	node_modules/node-addon-api/napi-inl.h	/^  Getter getterCallback;$/;"	m	struct:Napi::details::AccessorCallbackData	typeref:typename:Getter
+getterCallback	node_modules/node-addon-api/napi.h	/^    TGetterCallback getterCallback;$/;"	m	struct:Napi::AccessorCallbackData	typeref:typename:TGetterCallback
+hint	node_modules/node-addon-api/napi-inl.h	/^  Hint* hint;$/;"	m	struct:Napi::details::FinalizeData	typeref:typename:Hint *
+install	node_modules/body-parser/node_modules/debug/Makefile	/^install: node_modules$/;"	t
+install	node_modules/compression/node_modules/debug/Makefile	/^install: node_modules$/;"	t
+install	node_modules/connect/node_modules/debug/Makefile	/^install: node_modules$/;"	t
+install	node_modules/express/node_modules/debug/Makefile	/^install: node_modules$/;"	t
+install	node_modules/finalhandler/node_modules/debug/Makefile	/^install: node_modules$/;"	t
+install	node_modules/send/node_modules/debug/Makefile	/^install: node_modules$/;"	t
+install	node_modules/serve-index/node_modules/debug/Makefile	/^install: node_modules$/;"	t
+lint	node_modules/body-parser/node_modules/debug/Makefile	/^lint: .FORCE$/;"	t
+lint	node_modules/compression/node_modules/debug/Makefile	/^lint: .FORCE$/;"	t
+lint	node_modules/connect/node_modules/debug/Makefile	/^lint: .FORCE$/;"	t
+lint	node_modules/express/node_modules/debug/Makefile	/^lint: .FORCE$/;"	t
+lint	node_modules/finalhandler/node_modules/debug/Makefile	/^lint: .FORCE$/;"	t
+lint	node_modules/send/node_modules/debug/Makefile	/^lint: .FORCE$/;"	t
+lint	node_modules/serve-index/node_modules/debug/Makefile	/^lint: .FORCE$/;"	t
+load_exe_hook	node_modules/node-gyp/src/win_delay_load_hook.cc	/^static FARPROC WINAPI load_exe_hook(unsigned int event, DelayLoadInfo* info) {$/;"	f	typeref:typename:FARPROC WINAPI	file:
+nice_napi	node_modules/nice-napi/build/nice_napi.target.mk	/^nice_napi: $(builddir)\/nice_napi.node$/;"	t
+nice_napi.node	node_modules/nice-napi/build/nice_napi.target.mk	/^nice_napi.node: $(obj).target\/nice_napi.node $(builddir)\/nice_napi.node$/;"	t
+node_modules	node_modules/body-parser/node_modules/debug/Makefile	/^node_modules: package.json$/;"	t
+node_modules	node_modules/compression/node_modules/debug/Makefile	/^node_modules: package.json$/;"	t
+node_modules	node_modules/connect/node_modules/debug/Makefile	/^node_modules: package.json$/;"	t
+node_modules	node_modules/express/node_modules/debug/Makefile	/^node_modules: package.json$/;"	t
+node_modules	node_modules/finalhandler/node_modules/debug/Makefile	/^node_modules: package.json$/;"	t
+node_modules	node_modules/send/node_modules/debug/Makefile	/^node_modules: package.json$/;"	t
+node_modules	node_modules/serve-index/node_modules/debug/Makefile	/^node_modules: package.json$/;"	t
+nothing	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^nothing: $(builddir)\/nothing.a$/;"	t
+nothing	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^nothing: $(obj).target\/node_modules\/node-addon-api\/nothing.a$/;"	t
+nothing.a	node_modules/nice-napi/build/node_modules/node-addon-api/nothing.target.mk	/^nothing.a: $(obj).target\/node_modules\/node-addon-api\/nothing.a $(builddir)\/nothing.a$/;"	t
+obj	node_modules/nice-napi/build/Makefile	/^obj := $(builddir)\/obj$/;"	m
+operator !=	node_modules/node-addon-api/napi-inl.h	/^inline bool Reference<T>::operator !=(const Reference<T> &other) const {$/;"	f	class:Napi::Reference	typeref:typename:bool
+operator !=	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::operator !=(const Value& other) const {$/;"	f	class:Napi::Value	typeref:typename:bool
+operator ()	node_modules/node-addon-api/napi-inl.h	/^inline Napi::Value FunctionReference::operator ()($/;"	f	class:Napi::FunctionReference	typeref:typename:Napi::Value
+operator ()	node_modules/node-addon-api/napi-inl.h	/^inline Value Function::operator ()(const std::initializer_list<napi_value>& args) const {$/;"	f	class:Napi::Function	typeref:typename:Value
+operator =	node_modules/node-addon-api/napi-inl.h	/^inline AsyncContext& AsyncContext::operator =(AsyncContext&& other) {$/;"	f	class:Napi::AsyncContext	typeref:typename:AsyncContext &
+operator =	node_modules/node-addon-api/napi-inl.h	/^inline AsyncWorker& AsyncWorker::operator =(AsyncWorker&& other) {$/;"	f	class:Napi::AsyncWorker	typeref:typename:AsyncWorker &
+operator =	node_modules/node-addon-api/napi-inl.h	/^inline Error& Error::operator =(Error&& other) {$/;"	f	class:Napi::Error	typeref:typename:Error &
+operator =	node_modules/node-addon-api/napi-inl.h	/^inline Error& Error::operator =(const Error& other) {$/;"	f	class:Napi::Error	typeref:typename:Error &
+operator =	node_modules/node-addon-api/napi-inl.h	/^inline FunctionReference& FunctionReference::operator =(FunctionReference&& other) {$/;"	f	class:Napi::FunctionReference	typeref:typename:FunctionReference &
+operator =	node_modules/node-addon-api/napi-inl.h	/^inline FunctionReference& FunctionReference::operator =(Reference<Function>&& other) {$/;"	f	class:Napi::FunctionReference	typeref:typename:FunctionReference &
+operator =	node_modules/node-addon-api/napi-inl.h	/^inline Object::PropertyLValue<Key>& Object::PropertyLValue<Key>::operator =(ValueType value) {$/;"	f	class:Napi::Object::PropertyLValue	typeref:typename:Object::PropertyLValue<Key> &
+operator =	node_modules/node-addon-api/napi-inl.h	/^inline ObjectReference& ObjectReference::operator =(ObjectReference&& other) {$/;"	f	class:Napi::ObjectReference	typeref:typename:ObjectReference &
+operator =	node_modules/node-addon-api/napi-inl.h	/^inline ObjectReference& ObjectReference::operator =(Reference<Object>&& other) {$/;"	f	class:Napi::ObjectReference	typeref:typename:ObjectReference &
+operator =	node_modules/node-addon-api/napi-inl.h	/^inline Reference<T>& Reference<T>::operator =(Reference<T>&& other) {$/;"	f	class:Napi::Reference	typeref:typename:Reference<T> &
+operator ==	node_modules/node-addon-api/napi-inl.h	/^inline bool Reference<T>::operator ==(const Reference<T> &other) const {$/;"	f	class:Napi::Reference	typeref:typename:bool
+operator ==	node_modules/node-addon-api/napi-inl.h	/^inline bool Value::operator ==(const Value& other) const {$/;"	f	class:Napi::Value	typeref:typename:bool
+operator T*	node_modules/node-addon-api/napi.h	/^      operator T*() { return static_cast<T*>(context); }$/;"	f	struct:Napi::ThreadSafeFunction::ConvertibleContext
+operator Value	node_modules/node-addon-api/napi-inl.h	/^inline Object::PropertyLValue<Key>::operator Value() const {$/;"	f	class:Napi::Object::PropertyLValue
+operator []	node_modules/node-addon-api/napi-inl.h	/^inline Object::PropertyLValue<std::string> Object::operator [](const char* utf8name) {$/;"	f	class:Napi::Object	typeref:typename:Object::PropertyLValue<std::string>
+operator []	node_modules/node-addon-api/napi-inl.h	/^inline Object::PropertyLValue<std::string> Object::operator [](const std::string& utf8name) {$/;"	f	class:Napi::Object	typeref:typename:Object::PropertyLValue<std::string>
+operator []	node_modules/node-addon-api/napi-inl.h	/^inline Object::PropertyLValue<uint32_t> Object::operator [](uint32_t index) {$/;"	f	class:Napi::Object	typeref:typename:Object::PropertyLValue<uint32_t>
+operator []	node_modules/node-addon-api/napi-inl.h	/^inline T& TypedArrayOf<T>::operator [](size_t index) {$/;"	f	class:Napi::TypedArrayOf	typeref:typename:T &
+operator []	node_modules/node-addon-api/napi-inl.h	/^inline Value Object::operator [](const char* utf8name) const {$/;"	f	class:Napi::Object	typeref:typename:Value
+operator []	node_modules/node-addon-api/napi-inl.h	/^inline Value Object::operator [](const std::string& utf8name) const {$/;"	f	class:Napi::Object	typeref:typename:Value
+operator []	node_modules/node-addon-api/napi-inl.h	/^inline Value Object::operator [](uint32_t index) const {$/;"	f	class:Napi::Object	typeref:typename:Value
+operator []	node_modules/node-addon-api/napi-inl.h	/^inline const T& TypedArrayOf<T>::operator [](size_t index) const {$/;"	f	class:Napi::TypedArrayOf	typeref:typename:const T &
+operator []	node_modules/node-addon-api/napi-inl.h	/^inline const Value CallbackInfo::operator [](size_t index) const {$/;"	f	class:Napi::CallbackInfo	typeref:typename:const Value
+operator bool	node_modules/node-addon-api/napi-inl.h	/^inline Boolean::operator bool() const {$/;"	f	class:Napi::Boolean
+operator const napi_property_descriptor&	node_modules/node-addon-api/napi-inl.h	/^inline PropertyDescriptor::operator const napi_property_descriptor&() const {$/;"	f	class:Napi::PropertyDescriptor
+operator const napi_property_descriptor&	node_modules/node-addon-api/napi.h	/^    operator const napi_property_descriptor&() const { return _desc; }$/;"	f	class:Napi::ClassPropertyDescriptor
+operator double	node_modules/node-addon-api/napi-inl.h	/^inline Date::operator double() const {$/;"	f	class:Napi::Date
+operator double	node_modules/node-addon-api/napi-inl.h	/^inline Number::operator double() const {$/;"	f	class:Napi::Number
+operator float	node_modules/node-addon-api/napi-inl.h	/^inline Number::operator float() const {$/;"	f	class:Napi::Number
+operator int32_t	node_modules/node-addon-api/napi-inl.h	/^inline Number::operator int32_t() const {$/;"	f	class:Napi::Number
+operator int64_t	node_modules/node-addon-api/napi-inl.h	/^inline Number::operator int64_t() const {$/;"	f	class:Napi::Number
+operator napi_async_context	node_modules/node-addon-api/napi-inl.h	/^inline AsyncContext::operator napi_async_context() const {$/;"	f	class:Napi::AsyncContext
+operator napi_async_work	node_modules/node-addon-api/napi-inl.h	/^inline AsyncWorker::operator napi_async_work() const {$/;"	f	class:Napi::AsyncWorker
+operator napi_callback_scope	node_modules/node-addon-api/napi-inl.h	/^inline CallbackScope::operator napi_callback_scope() const {$/;"	f	class:Napi::CallbackScope
+operator napi_env	node_modules/node-addon-api/napi-inl.h	/^inline Env::operator napi_env() const {$/;"	f	class:Napi::Env
+operator napi_escapable_handle_scope	node_modules/node-addon-api/napi-inl.h	/^inline EscapableHandleScope::operator napi_escapable_handle_scope() const {$/;"	f	class:Napi::EscapableHandleScope
+operator napi_handle_scope	node_modules/node-addon-api/napi-inl.h	/^inline HandleScope::operator napi_handle_scope() const {$/;"	f	class:Napi::HandleScope
+operator napi_property_descriptor&	node_modules/node-addon-api/napi-inl.h	/^inline PropertyDescriptor::operator napi_property_descriptor&() {$/;"	f	class:Napi::PropertyDescriptor
+operator napi_property_descriptor&	node_modules/node-addon-api/napi.h	/^    operator napi_property_descriptor&() { return _desc; }$/;"	f	class:Napi::ClassPropertyDescriptor
+operator napi_ref	node_modules/node-addon-api/napi-inl.h	/^inline Reference<T>::operator napi_ref() const {$/;"	f	class:Napi::Reference
+operator napi_threadsafe_function	node_modules/node-addon-api/napi-inl.h	/^inline ThreadSafeFunction::operator napi_threadsafe_function() const {$/;"	f	class:Napi::ThreadSafeFunction
+operator napi_threadsafe_function	node_modules/node-addon-api/napi-inl.h	/^operator napi_threadsafe_function() const {$/;"	f	class:Napi::TypedThreadSafeFunction
+operator napi_value	node_modules/node-addon-api/napi-inl.h	/^inline Value::operator napi_value() const {$/;"	f	class:Napi::Value
+operator std::string	node_modules/node-addon-api/napi-inl.h	/^inline String::operator std::string() const {$/;"	f	class:Napi::String
+operator std::u16string	node_modules/node-addon-api/napi-inl.h	/^inline String::operator std::u16string() const {$/;"	f	class:Napi::String
+operator uint32_t	node_modules/node-addon-api/napi-inl.h	/^inline Number::operator uint32_t() const {$/;"	f	class:Napi::Number
+prereq_changed	node_modules/nice-napi/build/Makefile	/^prereq_changed = $(filter-out FORCE_DO_CMD,$(filter-out $|,$?))$/;"	m
+quiet	node_modules/nice-napi/build/Makefile	/^  quiet=$/;"	m
+quiet	node_modules/nice-napi/build/Makefile	/^  quiet=quiet_$/;"	m
+quiet_cmd_alink	node_modules/nice-napi/build/Makefile	/^quiet_cmd_alink = AR($(TOOLSET)) $@$/;"	m
+quiet_cmd_alink_thin	node_modules/nice-napi/build/Makefile	/^quiet_cmd_alink_thin = AR($(TOOLSET)) $@$/;"	m
+quiet_cmd_cc	node_modules/nice-napi/build/Makefile	/^quiet_cmd_cc = CC($(TOOLSET)) $@$/;"	m
+quiet_cmd_copy	node_modules/nice-napi/build/Makefile	/^quiet_cmd_copy = COPY $@$/;"	m
+quiet_cmd_cxx	node_modules/nice-napi/build/Makefile	/^quiet_cmd_cxx = CXX($(TOOLSET)) $@$/;"	m
+quiet_cmd_link	node_modules/nice-napi/build/Makefile	/^quiet_cmd_link = LINK($(TOOLSET)) $@$/;"	m
+quiet_cmd_regen_makefile	node_modules/nice-napi/build/Makefile	/^quiet_cmd_regen_makefile = ACTION Regenerating $@$/;"	m
+quiet_cmd_solink	node_modules/nice-napi/build/Makefile	/^quiet_cmd_solink = SOLINK($(TOOLSET)) $@$/;"	m
+quiet_cmd_solink_module	node_modules/nice-napi/build/Makefile	/^quiet_cmd_solink_module = SOLINK_MODULE($(TOOLSET)) $@$/;"	m
+quiet_cmd_touch	node_modules/nice-napi/build/Makefile	/^quiet_cmd_touch = TOUCH $@$/;"	m
+release-major	node_modules/retry/Makefile	/^release-major: test$/;"	t
+release-minor	node_modules/retry/Makefile	/^release-minor: test$/;"	t
+release-patch	node_modules/retry/Makefile	/^release-patch: test$/;"	t
+replace_spaces	node_modules/nice-napi/build/Makefile	/^replace_spaces = $(subst $(space),?,$1)$/;"	m
+setterCallback	node_modules/node-addon-api/napi-inl.h	/^  Setter setterCallback;$/;"	m	struct:Napi::details::AccessorCallbackData	typeref:typename:Setter
+setterCallback	node_modules/node-addon-api/napi.h	/^    TSetterCallback setterCallback;$/;"	m	struct:Napi::AccessorCallbackData	typeref:typename:TSetterCallback
+space	node_modules/nice-napi/build/Makefile	/^space := $(empty) $(empty)$/;"	m
+srcdir	node_modules/nice-napi/build/Makefile	/^srcdir := ..$/;"	m
+test	node_modules/batch/Makefile	/^test:$/;"	t
+test	node_modules/body-parser/node_modules/debug/Makefile	/^test: .FORCE$/;"	t
+test	node_modules/compression/node_modules/debug/Makefile	/^test: .FORCE$/;"	t
+test	node_modules/connect/node_modules/debug/Makefile	/^test: .FORCE$/;"	t
+test	node_modules/custom-event/Makefile	/^test:$/;"	t
+test	node_modules/delegates/Makefile	/^test:$/;"	t
+test	node_modules/dom-serialize/Makefile	/^test:$/;"	t
+test	node_modules/express/node_modules/debug/Makefile	/^test: .FORCE$/;"	t
+test	node_modules/finalhandler/node_modules/debug/Makefile	/^test: .FORCE$/;"	t
+test	node_modules/isarray/Makefile	/^test:$/;"	t
+test	node_modules/qjobs/Makefile	/^test:$/;"	t
+test	node_modules/send/node_modules/debug/Makefile	/^test: .FORCE$/;"	t
+test	node_modules/serve-index/node_modules/debug/Makefile	/^test: .FORCE$/;"	t
+test-browser	node_modules/body-parser/node_modules/debug/Makefile	/^test-browser: .FORCE$/;"	t
+test-browser	node_modules/compression/node_modules/debug/Makefile	/^test-browser: .FORCE$/;"	t
+test-browser	node_modules/connect/node_modules/debug/Makefile	/^test-browser: .FORCE$/;"	t
+test-browser	node_modules/express/node_modules/debug/Makefile	/^test-browser: .FORCE$/;"	t
+test-browser	node_modules/finalhandler/node_modules/debug/Makefile	/^test-browser: .FORCE$/;"	t
+test-browser	node_modules/send/node_modules/debug/Makefile	/^test-browser: .FORCE$/;"	t
+test-browser	node_modules/serve-index/node_modules/debug/Makefile	/^test-browser: .FORCE$/;"	t
+test-node	node_modules/body-parser/node_modules/debug/Makefile	/^test-node: .FORCE$/;"	t
+test-node	node_modules/compression/node_modules/debug/Makefile	/^test-node: .FORCE$/;"	t
+test-node	node_modules/connect/node_modules/debug/Makefile	/^test-node: .FORCE$/;"	t
+test-node	node_modules/express/node_modules/debug/Makefile	/^test-node: .FORCE$/;"	t
+test-node	node_modules/finalhandler/node_modules/debug/Makefile	/^test-node: .FORCE$/;"	t
+test-node	node_modules/send/node_modules/debug/Makefile	/^test-node: .FORCE$/;"	t
+test-node	node_modules/serve-index/node_modules/debug/Makefile	/^test-node: .FORCE$/;"	t
+unknown_array_type	node_modules/node-addon-api/napi.h	/^    static const napi_typedarray_type unknown_array_type = static_cast<napi_typedarray_type>(-1)/;"	m	class:Napi::TypedArray	typeref:typename:const napi_typedarray_type
+unreplace_spaces	node_modules/nice-napi/build/Makefile	/^unreplace_spaces = $(subst ?,$(space),$1)$/;"	m
+vf_fallback	node_modules/node-addon-api/napi-inl.h	/^struct vf_fallback {$/;"	s	namespace:Napi::details
+vf_number	node_modules/node-addon-api/napi-inl.h	/^struct vf_number {$/;"	s	namespace:Napi::details
+vf_number	node_modules/node-addon-api/napi-inl.h	/^struct vf_number<bool> {$/;"	s	namespace:Napi::details
+vf_utf16_charp	node_modules/node-addon-api/napi-inl.h	/^struct vf_utf16_charp {$/;"	s	namespace:Napi::details
+vf_utf16_string	node_modules/node-addon-api/napi-inl.h	/^struct vf_utf16_string {$/;"	s	namespace:Napi::details
+vf_utf8_charp	node_modules/node-addon-api/napi-inl.h	/^struct vf_utf8_charp {$/;"	s	namespace:Napi::details
+vf_utf8_string	node_modules/node-addon-api/napi-inl.h	/^struct vf_utf8_string {$/;"	s	namespace:Napi::details
+what	node_modules/node-addon-api/napi-inl.h	/^inline const char* Error::what() const NAPI_NOEXCEPT {$/;"	f	class:Napi::Error	typeref:typename:const char *
+~AsyncContext	node_modules/node-addon-api/napi-inl.h	/^inline AsyncContext::~AsyncContext() {$/;"	f	class:Napi::AsyncContext
+~AsyncProgressQueueWorker	node_modules/node-addon-api/napi.h	/^     virtual ~AsyncProgressQueueWorker() {};$/;"	f	class:Napi::AsyncProgressQueueWorker
+~AsyncProgressWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressWorker<T>::~AsyncProgressWorker() {$/;"	f	class:Napi::AsyncProgressWorker
+~AsyncProgressWorkerBase	node_modules/node-addon-api/napi-inl.h	/^inline AsyncProgressWorkerBase<DataType>::~AsyncProgressWorkerBase() {$/;"	f	class:Napi::AsyncProgressWorkerBase
+~AsyncWorker	node_modules/node-addon-api/napi-inl.h	/^inline AsyncWorker::~AsyncWorker() {$/;"	f	class:Napi::AsyncWorker
+~CallbackInfo	node_modules/node-addon-api/napi-inl.h	/^inline CallbackInfo::~CallbackInfo() {$/;"	f	class:Napi::CallbackInfo
+~CallbackScope	node_modules/node-addon-api/napi-inl.h	/^inline CallbackScope::~CallbackScope() {$/;"	f	class:Napi::CallbackScope
+~EscapableHandleScope	node_modules/node-addon-api/napi-inl.h	/^inline EscapableHandleScope::~EscapableHandleScope() {$/;"	f	class:Napi::EscapableHandleScope
+~HandleScope	node_modules/node-addon-api/napi-inl.h	/^inline HandleScope::~HandleScope() {$/;"	f	class:Napi::HandleScope
+~ObjectWrap	node_modules/node-addon-api/napi-inl.h	/^inline ObjectWrap<T>::~ObjectWrap() {$/;"	f	class:Napi::ObjectWrap
+~Reference	node_modules/node-addon-api/napi-inl.h	/^inline Reference<T>::~Reference() {$/;"	f	class:Napi::Reference
