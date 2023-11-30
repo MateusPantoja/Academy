@@ -1,12 +1,23 @@
-<h2>My Heroes</h2>
+<!-- <h2>My Heroes</h2>
 <ul class="heroes">
   <li *ngFor="let hero of heroes">
-    <!-- Event bind para o butao evento de click -->
+    Event bind para o butao evento de click
     <button type="button" (click)="onSelectHero(hero)">
       <span class="badge">{{hero.id}}</span>
       <span class="name">{{hero.name}}</span>
     </button>
   </li>
 </ul>
-<!-- databind que atribui valor de selectedHero a hero de outro componete -->
-<app-hero-detail [hero]="selectedHero"></app-hero-detail>
+databind que atribui valor de selectedHero a hero de outro componete
+<app-hero-detail [hero]="selectedHero"></app-hero-detail> -->
+<ul class="heroes">
+  <li *ngFor="let hero of heroes">
+    <!-- <button type="button" (click)="onSelectHero(hero)" [class.selected]="hero === selectedHero">
+      <span class="badge">{{hero.id}}</span>
+      <span class="name">{{hero.name}}</span>
+    </button> -->
+    <a routerLink="/detail/{{hero.id}}">
+      <span class="badge"> {{hero.id}} </span> {{hero.name}}
+    </a>
+  </li>
+</ul>
