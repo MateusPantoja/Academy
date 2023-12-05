@@ -8,7 +8,8 @@ import { MessageService } from './message.service';
   providedIn: 'root'
 })
 export class HeroService {
-  constructor(private messageService: MessageService){}
+  constructor(private messageService: MessageService,
+    private messageService: MessageService){}
   getHeroesMock():Observable<Hero[]> {
     const heroes = of(HEROES);
     this.messageService.add("Hero Service: fetched heroes");
