@@ -28,13 +28,13 @@ export class HeroService {
 
   private handleError<T>(operation = 'operation', result?: T) {
     return (error: any): Observable<T> => {
-  
+
       // TODO: send the error to remote logging infrastructure
       console.error(error); // log to console instead
-  
+
       // TODO: better job of transforming error for user consumption
       this.log(`${operation} failed: ${error.message}`);
-  
+
       // Let the app keep running by returning an empty result.
       return of(result as T);
     };
@@ -43,10 +43,10 @@ export class HeroService {
   private log(message:string) {
     this.messageService.add(`HeroService: ${message}`)
   }
-  
+
   getHero(id: number):Observable<Hero> {
     // const hero = HEROES.find(heroValue => heroValue.id === id)!;
-    
+
     // this.messageService.add(`HeroService: Fetched hero id=${id}`)
     // return of(hero)
 
@@ -63,4 +63,20 @@ export class HeroService {
       catchError(this.handleError<any>( `updateHero`))
     )
   }
+
+  addHero(hero: Hero): Observable<Hero> {
+    return this.http.post<Hero>(this.heroesUrl, hero, this.httpOptions)
+    .pipe(
+      catchError(this.handleError<Hero>('addHero'))
+    )
+  }
+
+  deleteHero(id: number): Observable<Hero> {
+    const url = `${this.heroesUrl}/${id}`;
+
+    return this.http.delete<Hero>(url, this.httpOptions).pipe(
+      catchError(this.handleError<Hero>('deleteHero'))
+    );
+  }
+
 }

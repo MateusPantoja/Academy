@@ -17,8 +17,9 @@ export class DashboardComponent implements OnInit {
   }
 
   getHeroes(): void {
+
     this.heroService.getHeroesMock().subscribe(heroes =>
-      this.heroes = heroes.slice(1,7)
+      this.heroes = heroes
   )}
 
 }
