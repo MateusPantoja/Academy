@@ -134,5 +134,69 @@ router.delete('/aulas/:id', (req, res)=> {
 });
 
 //Aulas ======================================================================
+// create e read para aulas
+
+router.get ("/inscricao", (req, res) => {
+    const query = 'SELECT * FROM alunos_aulas';
+
+    console.log(query);
+
+    db.query(query, (err, result) => {
+        if (err) {
+            res.status(500).send("Erro ao obter as Aulas que os Alunos estão incritos");
+        } else {
+            res.json(result);
+        }
+    });
+});
+
+router.post('/inscricao', (req, res) => {
+    const { id_aula, id_aluno } = req.body;
+
+    const query = `INSERT INTO alunos_aulas (id_aula, id_aluno) VALUES ('${id_aula}', ${id_aluno})`;
+    console.log(query);
+
+    db.query(query, (err, result) => {
+        if (err) {
+            res.status(500).send("Erro ao fazer inscrição em aula");
+        } else {
+            res.status(201).send('Aluno inscrito na Aula com sucesso');
+        }
+    });
+});
+
+
+router.put('/inscricao/:id', (req, res)=> {
+    const { id } = req.params;
+    const { id_aula } = req.body;
+
+    const query = `UPDATE alunos_aulas SET id_aula='${id_aula}' WHERE id_aluno=${id}`;
+
+    console.log(query);
+
+    db.query(query, (err, result) => {
+        if (err) {
+            res.status(500).send("Error ao atualizar aulas");
+        } else {
+            res.send('Aula atualizada com sucesso');
+        }
+    });
+});
+
+
+router.get ("/inscricao/:id", (req, res) => {
+    const { id } = req.params;
+    const query = `SELECT * FROM alunos_aulas WHERE id_aluno=${id}`;
+
+    console.log(query);
+
+    db.query(query, (err, result) => {
+        if (err) {
+            res.status(500).send("Erro ao obter as Aulas que os Alunos estão incritos");
+        } else {
+            res.json(result);
+        }
+    });
+});
 
 module.exports = router;
