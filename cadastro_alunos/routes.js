@@ -2,6 +2,9 @@ const express = require('express');
 const router = express.Router();
 const db = require('./db');
 
+const ValidatorMiddleware = require('./middlewares/validatorMiddleware');
+const validatorMiddleware = require('./middlewares/validatorMiddleware');
+
 //Alunos ======================================================================
 
 //End point de leitura de alunos (read)
@@ -19,7 +22,7 @@ router.get ("/alunos", (req, res) => {
     });
 });
 
-router.post('/alunos', (req, res) => {
+router.post('/alunos', validatorMiddleware.validateInput,(req, res) => {
     const { nome, idade } = req.body;
 
     const query = `INSERT INTO alunos (nome, idade) VALUES ('${nome}', ${idade})`;
@@ -136,67 +139,62 @@ router.delete('/aulas/:id', (req, res)=> {
 //Aulas ======================================================================
 // create e read para aulas
 
-router.get ("/inscricao", (req, res) => {
-    const query = 'SELECT * FROM alunos_aulas';
+  // Ednpoint para criar inscrição em aulas
+  router.post('/inscricao', (req,res) => {
+    const {id_aula, id_aluno} = req.body
+    const query = `INSERT INTO alunos_aulas (id_aula, id_aluno) VALUES (${id_aula}, ${id_aluno})`
 
-    console.log(query);
+    db.query(query,(err,result) => {
+      if(err){
+        res.status(500).send(`Erro ao inscrever-se`);
+      }else {
+        res.send(`Inscrição realizada com sucesso! :)`)
+      }
+    })
+  })
 
-    db.query(query, (err, result) => {
-        if (err) {
-            res.status(500).send("Erro ao obter as Aulas que os Alunos estão incritos");
-        } else {
-            res.json(result);
-        }
-    });
-});
+  // Endpoint para verificar a inscrição 
 
-router.post('/inscricao', (req, res) => {
-    const { id_aula, id_aluno } = req.body;
+  router.get('/inscricao', (req,res)=> {
+    const query = `SELECT * FROM alunos_aulas`;
 
-    const query = `INSERT INTO alunos_aulas (id_aula, id_aluno) VALUES ('${id_aula}', ${id_aluno})`;
-    console.log(query);
+    db.query(query, (err,result)=>{
+      if(err){
+        res.status(500).send("Erro ao localizar inscrição")
+      } else{
+        res.json(result);
+      }
+    })
+  })
 
-    db.query(query, (err, result) => {
-        if (err) {
-            res.status(500).send("Erro ao fazer inscrição em aula");
-        } else {
-            res.status(201).send('Aluno inscrito na Aula com sucesso');
-        }
-    });
-});
+  //Endpoint pra retornar todas as aulas de um aluno específico
+  router.get('/inscricao/:id', (req, res)=>{
+    const {id} = req.params
+    const query = `SELECT * FROM alunos_aulas WHERE id_aluno = ${id}`
 
+    db.query(query, (err, result)=>{
+      if(err){
+        res.status(500).send(`Erro ao retornar aluno: ${JSON.stringify(err)}`)
+      } else {
+        res.json(result)
+      }
+    })
+  })
+  
+  //ENDPOINT atualização alunos e aula
+  router.put('/inscricao/:id', (req, res) =>{
+    const {id} = req.params;
+    const{id_aula, id_aluno} = req.body;
 
-router.put('/inscricao/:id', (req, res)=> {
-    const { id } = req.params;
-    const { id_aula } = req.body;
+    const query = `UPDATE alunos_aulas SET id_aluno=${id_aluno}, id_aula =${id_aula} WHERE id_aluno =${id} `
 
-    const query = `UPDATE alunos_aulas SET id_aula='${id_aula}' WHERE id_aluno=${id}`;
-
-    console.log(query);
-
-    db.query(query, (err, result) => {
-        if (err) {
-            res.status(500).send("Error ao atualizar aulas");
-        } else {
-            res.send('Aula atualizada com sucesso');
-        }
-    });
-});
-
-
-router.get ("/inscricao/:id", (req, res) => {
-    const { id } = req.params;
-    const query = `SELECT * FROM alunos_aulas WHERE id_aluno=${id}`;
-
-    console.log(query);
-
-    db.query(query, (err, result) => {
-        if (err) {
-            res.status(500).send("Erro ao obter as Aulas que os Alunos estão incritos");
-        } else {
-            res.json(result);
-        }
-    });
-});
+    db.query(query, (err, result)=>{
+      if(err){
+        res.status(500).send(`Erro ao atualizar aluno: ${JSON.stringify(err)}`)
+      } else {
+        res.json(result)
+      }
+    })
+  })
 
 module.exports = router;
