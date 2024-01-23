@@ -11,8 +11,13 @@ export class HomeService {
 constructor() { }
 
   getAlunos() : Observable<any> {
+    let headers = {
+      'Content-type': 'application/json',
+      'Access-Control-Allow-Origin': 'http://localhost:3000'
+    }
+
     return new Observable((observer) => {
-      axios.get(this.api)
+      axios.get(this.api+"/alunos")
         .then((response) => {
           observer.next(response.data);
           observer.complete()
@@ -22,6 +27,17 @@ constructor() { }
         })
     })
   }
+  insertAlunos(data:any):  Observable<any> {
+    return new Observable((observer) => {
+      axios.post(this.api+"/alunos", data)
+        .then((response) => {
 
+        })
+        .catch((error) =>{
+          observer.error(error)
+        })
+    })
+
+  }
 }
 
